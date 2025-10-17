@@ -15,34 +15,9 @@ There is an action project which will be used in this hands-on project for Joule
  <br> . "planning_horizon_to": "2025-10-16T00:00:00Z",
  <br> . "planning_horizon_from": "2025-10-15T00:00:00Z"
  <br> .  Choose the destination as ‘zewm_autonomous-warehouse-agent-srv-api’ 
- <br> Click on Test button
+ <br> <br> Click on Test button
+<br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
+<br> <br> Result: Response should be ‘200 OK’
+<br><img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/fefe3469-cd5d-4923-b5eb-6c274a9afcd4" />
 
-
-
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
-
-
-## Summary
-
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
+<br>Let us use this Action in the next section of the exercise while creating the Joule Skill
