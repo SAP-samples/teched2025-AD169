@@ -66,7 +66,7 @@
 Destination variable name : WHSOPMNG_DEST
 <br><br><img width="940" height="364" alt="image" src="https://github.com/user-attachments/assets/40be0237-f80a-45e7-be6a-d2924e982e19" />
 
-- [Exercise 4.1 - Mapping Input variables of the Action project with Joule Skill Inputs](exercises/ex4/ex4.1/README.md)
+- [Exercise 4.1 - Mapping Input variables of the Action project with Joule Skill Inputs](ex4.1/README.md)
 - [Exercise 4.2 -Add a Send message](exercises/ex4/ex4.2)
 - [Exercise 4.3 -Configure the Output Parameter](exercises/ex4/ex4.3)
   
