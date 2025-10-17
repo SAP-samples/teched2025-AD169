@@ -1,8 +1,8 @@
 # Exercise 1 - Test the Action Project
 
 There is an action project which will be used in this hands-on project for Joule skill creation. The action project is already created. In this section, let us test the action project.
-1: In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
-2: Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
+<br>1: In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
+<br>2: Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
 <br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
 
