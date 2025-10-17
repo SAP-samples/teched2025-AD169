@@ -7,10 +7,16 @@ There is an action project which will be used in this hands-on project for Joule
 <br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
 
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+<br>3: 	Click on the Test tab.
+<br>Provide the below input parameters to test the action
+ <br> “warehouse": "TSEB",
+ <br>  "is_simulation": true,
+ <br>  "planning_start": "2025-10-15T00:00:00Z",
+ <br>  "planning_horizon_to": "2025-10-16T00:00:00Z",
+ <br> "planning_horizon_from": "2025-10-15T00:00:00Z"
+ <br> Choose the destination as ‘zewm_autonomous-warehouse-agent-srv-api’ 
+ <br> Click on Test button
+
 
 
 
