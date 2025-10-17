@@ -10,7 +10,22 @@
 <br><br>Click on Apply button
 <br><br><img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/015e3fcd-d755-40a8-933d-6fc89a1ab869" />
 
-<br><br>Similarly map the below fields
+<br>Similarly map the below fields
+<br>
+<table>
+  <tr>
+    <th>Action Inputs</th>
+    <th>Skill Content / Skill Input Variables</th>
+   </tr>
+  <tr>
+    <td>planning_horizon_to</td>
+    <td>PlanningTo</td>
+    </tr>
+  <tr>
+    <td>planning_start</td>
+    <td>PlanningStart</td>
+   </tr>
+</table>
 <br><br>2: Click on the field, ‘is_simulation’ and ‘Apply a formula’.
 <br>In the ‘Functions’ section, expand ‘Boolean functions’ and choose ‘ValuesAreEqual’. Then click on ‘Insert’ button.
 <br><br><img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0af0a409-99a9-4443-893e-61cd2615e6e6" />
