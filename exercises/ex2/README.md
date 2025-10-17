@@ -1,42 +1,13 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Create a Private Environment for Testing
 
-In this exercise, we will create...
-
-## Exercise 2.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+In this exercise, we will create a private environment to test the created agent. This will offer a flexibility for users to test the agent created without leaving the project.
+<br>1: To create a private environment, click on the ‘Control Tower’ in the lobby
+<br>2: In the Control Tower, click on the tile ‘Environments’
+<br><img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/f271fe87-306f-43d0-b81d-fea85680e3e5" />
+<br><br>3: Click on Activate Private Environment 
+<br><img width="940" height="348" alt="image" src="https://github.com/user-attachments/assets/2ad089c3-0bf3-4187-af2a-230e49226068" />
+<br><br>4: Afterwards, you'll see a notification
+<br><br><img width="686" height="274" alt="image" src="https://github.com/user-attachments/assets/e86d14c8-ec6c-40b5-9997-792bb82d6432" />
 
 
 
-## Exercise 2.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
-
-## Summary
-
-You've now ...
-
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
