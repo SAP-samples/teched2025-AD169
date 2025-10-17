@@ -20,8 +20,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1 - Test the Action Project](exercises/ex1/) 
 - [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
 - [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
-    - [Exercise 3.1 - Exercise 3 Sub Exercise 1 Description](exercises/ex3#exercise-31-sub-exercise-1-description)
-    - [Exercise 3.2 - Exercise 3 Sub Exercise 2 Description](exercises/ex3#exercise-32-sub-exercise-2-description)
 - [Exercise 4 -Creation of a new Joule Skill](exercises/ex4/)
     - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex3#exercise-41-sub-exercise-1-description)
     - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex3#exercise-42-sub-exercise-2-description)
