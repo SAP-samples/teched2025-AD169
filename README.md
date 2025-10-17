@@ -27,7 +27,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex3#exercise-42-sub-exercise-2-description)
 - [Exercise 5 -Creation of an Agent](exercises/ex5/)
 - [Exercise 6 -Creation of an Agent](exercises/ex6/)
-- [Exercise 7 -Additional Section](exercises/ex5/)
+- [Exercise 7 -Additional Section](exercises/ex7/)
+    - [Exercise 7.1 - Exercise 7 Sub Exercise 1 Description](exercises/ex3#exercise-71-sub-exercise-1-description)
+    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex3#exercise-72-sub-exercise-2-description)
+
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
