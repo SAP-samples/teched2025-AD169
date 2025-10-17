@@ -1,4 +1,4 @@
-##4.3 - Add a Send message to Joule Skill
+## 4.3 - Add a Send message to Joule Skill
 <br> 1: Below the Action call, click on the ‘+’ button and choose Send Response. Click on ‘Send message’
 <br><br> <img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/297092e9-0f24-493a-8048-090cf9c1b817" />
 <br><br>2: On the right, change the step name as ‘Simulate Workload Message’ and save.
@@ -9,7 +9,7 @@
 <br> - Enter the Text as ‘Workforce Optimization Results’
 <br><br>5: In the ‘List Item’ section, click on ‘Edit List Item’
 <br><br><img width="939" height="423" alt="image" src="https://github.com/user-attachments/assets/28bab2d7-47b1-4adb-b981-3bf72b53774c" />
-<br><br>6:In the field, ‘List Content’, click on the ‘<>’ button to do the data mapping. Expand the Joule Action result section and map the ‘value’ 
+<br><br>6: In the field, ‘List Content’, click on the ‘<>’ button to do the data mapping. Expand the Joule Action result section and map the ‘value’ 
 <br><br><img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/c453aeb1-b250-4606-b437-9be2be8d9899" />
 
 <br><br>7: In the Title field, click on the ‘<>’ button and map the data, Joule Action result->value->Resource
