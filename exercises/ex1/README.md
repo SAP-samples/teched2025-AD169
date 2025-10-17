@@ -1,13 +1,11 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Test the Action Project
 
-In this exercise, we will create...
+There is an action project which will be used in this hands-on project for Joule skill creation. The action project is already created. In this section, let us test the action project.
+1: In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
+2: Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
-## Exercise 1.1 Sub Exercise 1 Description
+<br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
 
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
 
 2.	Insert this line of code.
 ```abap
