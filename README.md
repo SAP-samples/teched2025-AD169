@@ -18,11 +18,16 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Test the Action Project](exercises/ex1/) 
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-- [Exercise 3 - Third Exercise Description](exercises/ex3/)
+- [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
+- [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
     - [Exercise 3.1 - Exercise 3 Sub Exercise 1 Description](exercises/ex3#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Exercise 3 Sub Exercise 2 Description](exercises/ex3#exercise-32-sub-exercise-2-description)
-  
+- [Exercise 4 -Creation of a new Joule Skill](exercises/ex4/)
+    - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex3#exercise-41-sub-exercise-1-description)
+    - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex3#exercise-42-sub-exercise-2-description)
+- [Exercise 5 -Creation of an Agent](exercises/ex5/)
+- [Exercise 6 -Creation of an Agent](exercises/ex6/)
+- [Exercise 7 -Additional Section](exercises/ex5/)
 **OR** Link to the Tutorial Navigator for example...
 
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
