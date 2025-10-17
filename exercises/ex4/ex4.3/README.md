@@ -1,4 +1,4 @@
-## 4.3 - Add a Send message to Joule Skill
+## Exercise 4.3 - Add a Send message in Joule Skill
 <br> 1: Below the Action call, click on the ‘+’ button and choose Send Response. Click on ‘Send message’
 <br><br> <img width="940" height="461" alt="image" src="https://github.com/user-attachments/assets/297092e9-0f24-493a-8048-090cf9c1b817" />
 <br><br>2: On the right, change the step name as ‘Simulate Workload Message’ and save.
@@ -20,6 +20,39 @@
 <br><br><img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/4dd20600-2640-4f1b-b218-735498aea174" />
 
 <br><br>10: In the ‘Attributes’ section, click on ‘Add Attribute’ to add 4 attributes as below
+<br>Title: Optimization Details
+<br>
+<table>
+  <tr>
+    <th>Type</th>
+    <th>Label</th>
+    <th>Value (Click on the <> button)</th>
+   </tr>
+  <tr>
+    <td>Text</td>
+    <td>Resource</td>
+    <td>Joule.action.results->value->resource</td>
+   </tr>
+  <tr>
+    <td>Text</td>
+    <td>Status</td>
+    <td>Joule.action.results->value->status</td>
+    
+  </tr>
+  <tr>
+    <td>Text</td>
+    <td>Activity area</td>
+    <td>Joule.action.results->value->activity_area</td>
+    
+  </tr>
+  <tr>
+    <td>Text</td>
+    <td>Resource Type</td>
+    <td>Joule.action.results->value->resource_type</td>
+    
+  </tr>
+</table>
+
 <br><br>Click on Save button
 <br><br>Once the details are added the ‘Preview’ should be seen in the right panel
 <br><br><img width="939" height="522" alt="image" src="https://github.com/user-attachments/assets/4b3f86a9-cd84-4926-a175-00626e4d7b22" />
