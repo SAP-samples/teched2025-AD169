@@ -41,16 +41,16 @@
 <br>Use data visualization and structured formats to enhance clarity.
 <br><br> __Model_:
 <br>Choose the option ‘Medium’
-<br> __LLM provider_: 
+<br><br> __LLM provider_: 
 <br>Choose the option, ‘OpenAI’ from the drop down
-<br> __Base Model_:
+<br><br> __Base Model_:
 <br>GPT4o Mini
-<br> __Advanced Model_:
+<br><br> __Advanced Model_:
 <br>GPT4o
 <br><br>Keep the toggle off for Backup LLM
-<br>In the Advanced Configuration, check the box, ‘Post-processing’
+<br><br>In the Advanced Configuration, check the box, ‘Post-processing’
 <br><img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/bff5c61c-eaed-4a4c-a68f-f13e1d3a00a6" />
-<br>3: In the Tools Section, add the following joule skills as tools to the agent:
+<br><br>3: In the Tools Section, add the following joule skills as tools to the agent:
 <br>Click on ‘Add Tool’ and click on ‘Joule Skill’. A pop-up window with available joule skills in the project is displayed. 
 <br><img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/db00ebe8-a3b1-4198-82cf-89fa02fc0e9d" />
 <br>Choose one by one and click on ‘Add’ button.
