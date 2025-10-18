@@ -2,7 +2,7 @@
 <br> Once the Agent is created, user can test it in a private environment. To test the Agent, follow the below steps:
 <br>1: Click on the Test button on the right top corner of the Agent builder.
 <br>2: In the pop-up screen, provide the details:
-<br> **Environment**: Choose your __<userid>_ related environment
+<br> **Environment**: Choose your __userid_ related environment
 <br> **AICore**: included-ai-core
 <br> **WHSOPMNG_DEST**: zewm-autonomous-warehouse-agent-srv-api
 <br><br><img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/7c153054-35cf-40d0-b88b-d272485faa2f" />
