@@ -6,15 +6,14 @@
 <br>__AICore_: included-ai-core
 <br>__WHSOPMNG_DEST_: zewm-autonomous-warehouse-agent-srv-api
 <br><br><img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/7c153054-35cf-40d0-b88b-d272485faa2f" />
+<br>Click on Test
 
-<br><br>Click on Test
-<br>3: In the Joule Assistant, provide the below prompts to test:
+<br><br>3: In the Joule Assistant, provide the below prompts to test:
 <br> 3.1: **Prompt**: 
 <br>“Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 6AM as planning start? in case critical areas exist, only simulate optimal resource allocation”
 <br>**Result**: Optimization should be run and rebalanced resources should be displayed.
 <br><br><img width="940" height="419" alt="image" src="https://github.com/user-attachments/assets/1665026b-b3cb-44da-8f2b-a4310ba601f1" />
-
-<br><br> 3.2:  You can use only below prompt to see the critical areas without optimization as well.
+<br> 3.2:  You can use only below prompt to see the critical areas without optimization as well.
 <br>**Prompt**:
 <br>“Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 6AM as planning start?”
 <br>**Result**: The result should be provided with 3 critical areas, T010, T151 and T152.
