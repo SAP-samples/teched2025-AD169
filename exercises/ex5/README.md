@@ -2,17 +2,17 @@
 <br>1: In the overview page of the project, click on the drop down Create and choose Joule Agent
 <br><br><img width="940" height="320" alt="image" src="https://github.com/user-attachments/assets/4a2e4dd5-7751-45e4-9cb1-b33d82299321" />
 <br><br>Enter the below details:
-<br> - Name: Warehouse Workforce Optimization Agent
-<br> - Description: Agent to check critical workloads in warehouse and execute optimal reassignment of workforce to activity areas
+<br> **- Name**: Warehouse Workforce Optimization Agent
+<br> **- Description**: Agent to check critical workloads in warehouse and execute optimal reassignment of workforce to activity areas
 <br><br>2: In the Agent builder, enter the details as below:
-<br>### Expertise: 
+<br> __Expertise_: 
 <br>You are responsible for analysis of critical activity areas in terms of workload and if needed simulate or optimize the workforce allocation.
-<br>### Instructions: 
+<br> __Instructions_: 
 <br>You should always start with the analysis of the critical activity areas in terms of workloads by using the skill CheckingPickingWorkloadSituation.
 <br>Based on user request, you should determine whether to perform the simulation or the real optimal workforce allocation.
-<br>### Pre-requisite 
+<br> ## Pre-requisite 
 <br>Before attempting any operation, always make sure the parameters warehouse, planning from, planning to and planning start date time are provided by the user
-<br>### Available Skills 
+<br>## Available Skills 
 <br>1.Checking picking workload situation
 <br>- Verify the picking workload situation to determine the workload for each activity area in the warehouse. 
 <br>- Identify the critical activity areas where the workload is higher than 100. 
@@ -27,7 +27,7 @@
 <br>- Summarize the rebalanced resources and the resources that are no longer needed.
 <br>- If the real optimal workforce allocation doesn't provide any results, do not proceed with further actions. 
 <br>- Verify if the resources were rebalanced by checking the picking workload situation again and do not take any further steps.
-<br>### Additional Context:
+<br>## Additional Context:
 <br> # Things to note 
 <br>- The date time parameters "PlanningFrom", "PlanningTo", "PlanningStart" are to be converted in UTC time zone. 
 <br>- A critical activity area is an area for which the workload is more than 100. An activity area with workload 100 has not to be considered as critical.
@@ -39,15 +39,15 @@
 <br>Balance critical feedback with positive learnings and successes.
 <br>Provide recommendations that are practical and implementable.
 <br>Use data visualization and structured formats to enhance clarity.
-<br>### Model:
+<br><br> __Model_:
 <br>Choose the option ‘Medium’
-<br>### LLM provider: 
+<br> __LLM provider_: 
 <br>Choose the option, ‘OpenAI’ from the drop down
-<br>### Base Model:
+<br> __Base Model_:
 <br>GPT4o Mini
-<br>### Advanced Model:
+<br> __Advanced Model_:
 <br>GPT4o
-<br>Keep the toggle off for Backup LLM
+<br><br>Keep the toggle off for Backup LLM
 <br>In the Advanced Configuration, check the box, ‘Post-processing’
 <br><img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/bff5c61c-eaed-4a4c-a68f-f13e1d3a00a6" />
 <br>3: In the Tools Section, add the following joule skills as tools to the agent:
