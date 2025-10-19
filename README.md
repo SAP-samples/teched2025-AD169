@@ -21,8 +21,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
 - [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
 - [Exercise 4 -Creation of a new Joule Skill](exercises/ex4/)
-    - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex4#exercise-41-sub-exercise-1-description)
-    - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex4#exercise-42-sub-exercise-2-description)
+    - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex4/ex4.1/README.md)
+    - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex4/ex4.2/README.md)
+    - [Exercise 4.3 - Exercise 4 Sub Exercise 3 Description](exercises/ex4/ex4.3/README.md)
+    - [Exercise 4.4 - Exercise 4 Sub Exercise 4 Description](exercises/ex4/ex4.4/README.md)
+     
 - [Exercise 5 -Creation of an Agent](exercises/ex5/)
 - [Exercise 6 -Creation of an Agent](exercises/ex6/)
 - [Exercise 7 -Additional Section](exercises/ex7/)
