@@ -30,7 +30,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 6 -Creation of an Agent](exercises/ex6/)
 - [Exercise 7 -Additional Section](exercises/ex7/)
     - [Exercise 7.1 - Exercise 7 Sub Exercise 1 Description](exercises/ex7/README.md)
-    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex7/README.md#:~:text=Exercise%207.2%20%2D%20Test%20the%20deployed%20project%20from%20the%20shared%20Environment)
+    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex7/README.md)
 
 **OR** Link to the Tutorial Navigator for example...
 
