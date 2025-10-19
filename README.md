@@ -29,8 +29,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 5 -Creation of an Agent](exercises/ex5/)
 - [Exercise 6 -Creation of an Agent](exercises/ex6/)
 - [Exercise 7 -Additional Section](exercises/ex7/)
-    - [Exercise 7.1 - Exercise 7 Sub Exercise 1 Description](exercises/ex7#exercise-71-sub-exercise-1-description)
-    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex7#exercise-71-sub-exercise-2-description)
+    - [Exercise 7.1 - Exercise 7 Sub Exercise 1 Description](exercises/ex7/ex7.1/README.md)
+    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex7/ex7.1/README.md)
 
 **OR** Link to the Tutorial Navigator for example...
 
