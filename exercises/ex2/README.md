@@ -1,6 +1,6 @@
 # Exercise 2 - Create a Private Environment for Testing
 
-### ⚙️ Understand the Private Environment
+## ⚙️ Understand the Private Environment
 
 **Joule Studio** now offers a dedicated **Private Environment** designed to provide a safe, isolated space for experimenting with **Joule Agents**.  
 It allows developers and business users to build, test, and refine their configurations **without affecting any shared or productive environments**.
@@ -17,16 +17,16 @@ In other words, the Private Environment acts as a **sandbox** where you can free
 > You can reset or reconfigure it anytime without impacting organizational data.
 
 
-### 🧩 Create your Private Environment
+## 🧩 Create your Private Environment
 
-#### Step 1: Navigate to  ‘Control Tower’ and  ‘Environments’ 
+### Step 1: Navigate to  ‘Control Tower’ and  ‘Environments’ 
 Click on the ‘Control Tower’ in the lobby
 
 In the Control Tower, click on the tile ‘Environments’
 <img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/f271fe87-306f-43d0-b81d-fea85680e3e5" />
 
 
-#### Step 2: Activate Private Environment
+### Step 2: Activate Private Environment
 Click on Activate Private Environment 
 <img width="940" height="348" alt="image" src="https://github.com/user-attachments/assets/2ad089c3-0bf3-4187-af2a-230e49226068" />
 
@@ -34,7 +34,7 @@ Afterwards, you'll see a notification
 
 <img width="686" height="274" alt="image" src="https://github.com/user-attachments/assets/e86d14c8-ec6c-40b5-9997-792bb82d6432" />
 
-### 🌟 What's Next
+## 🌟 What's Next
 
 The **Private Environment** you’ve just created will serve as your **safe testing space** for Joule Agents — a dedicated area where you can experiment, make changes, and validate your setup without impacting others.
 
