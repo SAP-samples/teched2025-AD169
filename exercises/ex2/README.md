@@ -1,6 +1,6 @@
 # Exercise 2 - Create a Private Environment for Testing
 
-## ⚙️ Understand the Private Environment
+## ⚙️ Understanding the Private Environment Concept
 
 **Joule Studio** now offers a dedicated **Private Environment** designed to provide a safe, isolated space for experimenting with **Joule Agents**.  
 It allows developers and business users to build, test, and refine their configurations **without affecting any shared or productive environments**.
