@@ -19,4 +19,4 @@
 <br>**Result**: The result should be provided with 3 critical areas, T010, T151 and T152.
 <br><br><img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/38b85b95-a3ee-4840-8aae-82b566545e91" />
 
-
+<br> <br>  - [Next Exercise - > Exercise 7 - Additional Section - Exercise to Release, Deploy and Test the Agent in Shared Environment](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex7/README.md)
