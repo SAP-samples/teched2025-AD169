@@ -2,16 +2,43 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2025 session called AD169 - Session Title.  
+This exercise shows how to build a simple custom Joule Agent in Joule Studio that uses multiple Joule Skills to solve a warehouse operations task. The agent checks for critical activity areas (by workload) and, if any are critical, runs a simulation to suggest an optimal resource reallocation plan without changing the live system. The agent does basic multi-step reasoning, combines deterministic skills with light calculations, and returns a clear summary for the supervisor.Overview  
 
 ## Overview
 
-This session introduces attendees to...
+### Busiess problem and persona   
 
-## Requirements
+Before diving into the use case, let's take a moment to get acquainted with our business user from the field who we'll be assisting today. It's really important to understand the business user as thoroughly as possible before considering the Joule Agent. 
 
-You should have the necessary roles on the subaccounts to login and were added to the AI Core Cloud Foudry spaces to use document grounding. 
+Meet Anna, a Warehouse Operations Supervisor who manages service levels by balancing workload and staff across activities. She requires real-time and forecasted views of workload and staffing by qualifications and time slot, plus safe “what‑if” simulations for reallocating resources without affecting live operations.   
 
+### You will buid a goal-driven Joule Agent in Joule Studio that: 
+
+- Understands a natural-language request on the  warehouse operations 
+- Detects overloaded activity areas in warehouses. 
+- If critical areas exist, fetch current staffing to run a non-destructive optimization to simulate the best reallocation. 
+- Produces a concise, auditable summary for the supervisor. 
+- Empoweres Anna in her daily activities  
+
+
+
+
+## Requirements & Prerequisites - already in place
+
+1. Joule Studio in SAP Build 
+    - Joule Studio with Agent Builder is enabled and accessible. 
+
+2. CAP application on SAP BTP (middleware to SAP S/4HANA) 
+    - Deployed CAP service 
+    - BTP Destination configured to reach CAP service 
+    - SAP Build Action created to call the CAP endpoint. 
+    - Joule Skills “Check Workload Situation” that retrieves a list of activity area workloads created  and “Assign Single Resourceе to Activity Area” were created  
+ 
+3. SAP AI Core for document grounding 
+
+    - Resource group created and assigned.
+    - Document grounding pipeline set up and running.
+      
 ## Exercises
 
 <br> Below are the exercises. Please follow them in order to begin your hands-on session
