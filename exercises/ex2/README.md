@@ -38,7 +38,7 @@ Afterwards, you'll see a notification
 
 The **Private Environment** you’ve just created will serve as your **safe testing space** for Joule Agents — a dedicated area where you can experiment, make changes, and validate your setup without impacting others.
 
-Now that your environment is ready, let’s move on to **Joule Studio configuration** and **create your first Joule Skill**, which will later be used by the Joule Agent as part of its end-to-end workflow.
+Now that your environment is ready, let’s move on to **Joule Studio** project set up, where you will copy our pre-created project and **create your first Joule Skill**, which will later be used by the Joule Agent as part of its end-to-end workflow.
 
 ➡️ [**Next Exercise → Exercise 3 – Create Your First Joule Skill**](https://github.com/SAP-samples/teched2025-AD169/tree/main/exercises/ex3/README.md)
 
