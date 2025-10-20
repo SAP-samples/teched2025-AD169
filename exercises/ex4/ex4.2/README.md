@@ -4,7 +4,7 @@
 
 <br><br><img width="940" height="368" alt="image" src="https://github.com/user-attachments/assets/22cbc3bb-e60d-4d51-97d3-7262078e5482" />
 
-<br><br>Here, type PlanningFrom in the formula editor 
+<br><br>Here, type 'PlanningFrom' in the formula editor 
 <br><br><img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/01426f05-ccfc-462a-8a9e-674f658b10fe" />
 
 <br><br>Click on Apply button
