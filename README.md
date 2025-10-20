@@ -10,7 +10,7 @@ This session introduces attendees to...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+You should have the necessary roles on the subaccounts to login and were added to the AI Core Cloud Foudry spaces to use document grounding. 
 
 ## Exercises
 
