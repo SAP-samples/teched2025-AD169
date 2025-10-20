@@ -21,4 +21,4 @@ There is an action project which will be used in this hands-on project for Joule
 <br><img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/fefe3469-cd5d-4923-b5eb-6c274a9afcd4" />
 
 <br>Let us use this Action in the next section of the exercise while creating the Joule Skill
-<br> <br>  - [Next Exercise - > Exercise 2 - Create a Private Environment for Testing](exercises/ex2/README.md)
+<br> <br>  - [Next Exercise - > Exercise 2 - Create a Private Environment for Testing](https://github.com/SAP-samples/teched2025-AD169/tree/exercises/ex2/README.md)
