@@ -11,5 +11,6 @@ As some of the Joule skills will be pre-created for this hands-on session, start
 <br>  b)	CheckingPickingWorkloadSituation
 <br> <br> <img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/634d6108-1fbf-4bf6-97ab-1af8a842880d" />
 
+<br> <br>  - [Next Exercise - > Exercise 4 - Create a New Joule Skill](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md)
 
 
