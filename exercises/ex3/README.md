@@ -8,11 +8,11 @@ These pre-delivered skills use the **same SAP Build Action project**, allowing y
 
 Here’s what the two existing skills do:
 
-- **🧩 Check Workload Situation**  
+- 🧳 **Check Workload Situation**  
   This skill retrieves an overview of the **current workload** across different **activity areas** in the warehouse.  
   It helps supervisors understand where workload imbalances exist — for example, identifying areas that are over- or under-utilized — so they can make better staffing decisions.
 
-- **👷 Assign Single Resource to Activity Area**  
+- 🕵🏻‍♀️ **Assign Single Resource to Activity Area**  
   This skill allows supervisors to **assign an individual worker (resource)** to a specific **activity area** based on the current workload data.  
   It streamlines the manual assignment process and ensures that resources are distributed efficiently to meet operational needs.
 
@@ -20,6 +20,8 @@ And here’s a quick reminder of how your **final Joule Agent** will look once a
 <p>
   <img src="https://github.com/SAP-samples/teched2025-AD169/blob/main/images/Agent%20for%20Warehouse%20Operations.jpeg" width="800" alt="Agent for Warehouse Operations"/>
 </p>
+
+## 🧩 Copy the Project ‘WarehouseOperationsManagement’ 
 
 
 ### Step 1: Save *WarehouseOperationsManagement* as a New Project
