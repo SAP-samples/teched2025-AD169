@@ -25,7 +25,7 @@ Testing validates that:
 - The action correctly receives and processes input parameters.  
 - The output data and logic behave as designed (for example, `is_simulation = true` triggers a simulation scenario).  
 
-###  Step.1: Open Action Project
+###  Step 1: Open Action Project
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
