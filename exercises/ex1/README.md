@@ -1,22 +1,59 @@
 # Exercise 1 - Test the Action Project
 
-There is an action project which will be used in this hands-on project for Joule skill creation. The action project is already created. In this section, let us test the action project.
-<br>1: In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
-<br>2: Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
+## ⚙️ Step 1 Understand the Action Project
+
+The **Action project** is an **SAP Build Action** — a low-code/no-code API layer that enables **Joule Skills** to securely interact with any backend system.  
+It allows you to define, test, and expose actions without writing complex integration code, making it easier to connect Joule to enterprise data and processes.
+
+In this hands-on scenario, the Action project connects to a **CAP (Cloud Application Programming) application** deployed on **SAP Business Technology Platform (BTP)**. This CAP service acts as middleware between an end user and SAP S/4HANA, managing the communication through predefined endpoints.
+
+This Action project is **already used by two Joule Skills**:
+- `Check Workload Situation`: retrieves a list of activity area workloads.  
+- `Assign Single Resource to Activity Area`: assigns a selected resource to a specific activity area.  
+
+In this hands-on, we will focus on the 3d Joule Skill — `Simulate Workforce Optimization`,
+which reuses the same already created Action project to simulate and optimize workforce distribution across activity areas based on workload and planning horizons.
+
+<br>
+
+Now that we understand the Action project’s role in the architecture, let’s test it to confirm that the backend connection and logic work as expected.
+
+## 🧩 Step 2 Test Action Project
+
+Testing validates that:
+- The backend destination (`zewm_autonomous-warehouse-agent-srv-api`) is correctly configured and reachable.  
+- The action correctly receives and processes input parameters.  
+- The output data and logic behave as designed (for example, `is_simulation = true` triggers a simulation scenario).  
+
+###  Step 2.1: Open Action Project
+
+In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
+
+Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
 <br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
 
+###  Step 2.2:  Set Required Values for Testing
 
-<br>3: 	Click on the Test tab.
-<br>Provide the below input parameters to test the action
- <br>  - **“warehouse"**: "TSEB",
- <br>  - **"is_simulation"**: true,
- <br>  - **"planning_start"**: "2025-10-15T00:00:00Z",
- <br>  - **"planning_horizon_to"**: "2025-10-16T00:00:00Z",
- <br>  - **"planning_horizon_from"**: "2025-10-15T00:00:00Z"
- <br>  -  Choose the **'destination'** as ‘zewm_autonomous-warehouse-agent-srv-api’ 
- <br> <br> Click on Test button
 <br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
+
+<br> To test the action, provide the following **input parameters** (N1 on the screenshot):
+
+| **Parameter** | **Value** |
+|----------------|-----------|
+| warehouse | `TSEB` |
+| is_simulation | `true` |
+| planning_start | `2025-10-15T00:00:00Z` |
+| planning_horizon_to | `2025-10-16T00:00:00Z` |
+| planning_horizon_from | `2025-10-15T00:00:00Z` |
+
+On the **right side (top panel)**, select the **destination** associated with the action project (N2 on the screenshot):
+| **Parameter** |  |
+|----------------|-----------|
+| **destination** | `zewm_autonomous-warehouse-agent-srv-api` |
+
+###  Step 2.3:  Get Succesful API Response 
+
 <br> <br> Result: Response should be ‘200 OK’
 <br><img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/fefe3469-cd5d-4923-b5eb-6c274a9afcd4" />
 
