@@ -25,7 +25,7 @@
 <br>4: Click on the Launch button to open the Joule Assistant
 <br>5: Provide the same prompts that were provided to Joule assistant in the Private Test environment and test the Joule
 
-
+<br> <br>  - [Go to the Overview Screen of Exercises](https://github.com/SAP-samples/teched2025-AD169.git)
 
 
 
