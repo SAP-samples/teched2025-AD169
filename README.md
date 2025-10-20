@@ -15,7 +15,7 @@ You should have the necessary roles on the subaccounts to login and were added t
 ## Exercises
 
 <br> Below are the exercises. Please follow them in order to begin your hands-on session
-- [Exercise 0 - Test the Action Project](exercises/ex0/) 
+- [Exercise 0 - Getting Started - Login to the Tenant](exercises/ex0/) 
 - [Exercise 1 - Test the Action Project](exercises/ex1/) 
 - [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
 - [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
