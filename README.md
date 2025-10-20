@@ -12,6 +12,13 @@ Before diving into the use case, let's take a moment to get acquainted with our 
 
 Meet Anna, a Warehouse Operations Supervisor who manages service levels by balancing workload and staff across activities. She requires real-time and forecasted views of workload and staffing by qualifications and time slot, plus safe “what‑if” simulations for reallocating resources without affecting live operations.   
 
+
+#### Persona — Warehouse Operations Supervisor
+![Persona](./images/Persona%20Warehouse%20Operations%20Supervisor.png)
+
+#### Pain Points — Warehouse Operations Supervisor
+![Pain Points](./images/Pain%20Points%20Warehouse%20Operations%20Supervisor%20.png)
+
 ### You will buid a goal-driven Joule Agent in Joule Studio that: 
 
 - Understands a natural-language request on the  warehouse operations 
@@ -20,7 +27,8 @@ Meet Anna, a Warehouse Operations Supervisor who manages service levels by balan
 - Produces a concise, auditable summary for the supervisor. 
 - Empoweres Anna in her daily activities  
 
-
+#### Agent for Warehouse Operations
+![Agent for Warehouse Operations](./images/Agent%20for%20Warehouse%20Operations%20.png)
 
 
 ## Requirements & Prerequisites - already in place
