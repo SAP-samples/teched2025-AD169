@@ -9,12 +9,12 @@ There is an action project which will be used in this hands-on project for Joule
 
 <br>3: 	Click on the Test tab.
 <br>Provide the below input parameters to test the action
- <br> . “warehouse": "TSEB",
- <br> . "is_simulation": true,
- <br> . "planning_start": "2025-10-15T00:00:00Z",
- <br> . "planning_horizon_to": "2025-10-16T00:00:00Z",
- <br> . "planning_horizon_from": "2025-10-15T00:00:00Z"
- <br> .  Choose the destination as ‘zewm_autonomous-warehouse-agent-srv-api’ 
+ <br>  - **“warehouse"**: "TSEB",
+ <br>  - **"is_simulation"**: true,
+ <br>  - **"planning_start"**: "2025-10-15T00:00:00Z",
+ <br>  - **"planning_horizon_to"**: "2025-10-16T00:00:00Z",
+ <br>  - **"planning_horizon_from"**: "2025-10-15T00:00:00Z"
+ <br>  -  Choose the **'destination'** as ‘zewm_autonomous-warehouse-agent-srv-api’ 
  <br> <br> Click on Test button
 <br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
 <br> <br> Result: Response should be ‘200 OK’
