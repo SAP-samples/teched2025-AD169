@@ -67,4 +67,4 @@ Destination variable name : WHSOPMNG_DEST
 <br><br><img width="940" height="364" alt="image" src="https://github.com/user-attachments/assets/40be0237-f80a-45e7-be6a-d2924e982e19" />
 
   
-
+<br> <br>  - [Next Exercise - > Exercise 4.2 - Create a Private Environment for Testing](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md/ex4.2/README.md)
