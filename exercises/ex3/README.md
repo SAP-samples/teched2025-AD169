@@ -1,16 +1,68 @@
 ## Exercise 3: Copy the Project ‘WarehouseOperationsManagement’ 
-As some of the Joule skills will be pre-created for this hands-on session, start by copying the project ‘Warehouse Operations Management’, so that a new Joule skill can be added within the same project. To do this, follow the below steps – 
-<br> 1: Click on the project ‘WarehouseOperationsManagement’ in SAP Build Lobby.
-<br> 2: On the right panel, click on the ‘versions’ tab. 
-<br> 3: Click on the three dots next to ‘Editable’ text and then click on ‘Save As New Project’
-<br> <br> <img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/2234c7e9-9a48-4abe-ac30-873f3025885f" />
-<br><br> 4: Provide the name of the new project as ‘WarehouseOperationsManagement_<userid>’
-<br> 5: Click on ‘Save As new’ button
-<br> 6: Once saved, open the project by clicking on it in the lobby. You should be able to see 2 pre-created Joule skills:
-<br>  a)	AssignSingleResourceToActivityArea
-<br>  b)	CheckingPickingWorkloadSituation
-<br> <br> <img width="940" height="398" alt="image" src="https://github.com/user-attachments/assets/634d6108-1fbf-4bf6-97ab-1af8a842880d" />
 
-<br> <br>  - [Next Exercise - > Exercise 4 - Create a New Joule Skill](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md)
+## 💡 Pre-Delivered Joule Skills
+
+Since the hands-on session has limited time, we have already prepared a few **Joule Skills** for you as part of the **Warehouse Agent** setup.  
+These pre-delivered skills use the **same SAP Build Action project**, allowing you to focus on exploring how Joule integrates with backend processes rather than building everything from scratch.
+
+
+Here’s what the two existing skills do:
+
+- **🧩 Check Workload Situation**  
+  This skill retrieves an overview of the **current workload** across different **activity areas** in the warehouse.  
+  It helps supervisors understand where workload imbalances exist — for example, identifying areas that are over- or under-utilized — so they can make better staffing decisions.
+
+- **👷 Assign Single Resource to Activity Area**  
+  This skill allows supervisors to **assign an individual worker (resource)** to a specific **activity area** based on the current workload data.  
+  It streamlines the manual assignment process and ensures that resources are distributed efficiently to meet operational needs.
+
+And here’s a quick reminder of how your **final Joule Agent** will look once all the skills are connected:
+<p>
+  <img src="https://github.com/SAP-samples/teched2025-AD169/blob/main/images/Agent%20for%20Warehouse%20Operations.jpeg" width="800" alt="Agent for Warehouse Operations"/>
+</p>
+
+
+### Step 1: Save *WarehouseOperationsManagement* as a New Project
+
+As mentioned earlier, some of the **Joule Skills** were pre-created for this hands-on session.  
+You’ll begin by **copying the existing project** so that you can safely add a new Joule Skill within the same setup.
+
+Follow these steps:
+
+1. In **SAP Build Lobby**, click on the project **`WarehouseOperationsManagement`**.  
+2. On the right-side panel, open the **Versions** tab.  
+3. Click the **three dots (⋮)** next to *Editable* and choose 
+Then click the **Save As New** button to create your personal copy.
+
+<img width="940" height="474" alt="Save project as new" src="https://github.com/user-attachments/assets/2234c7e9-9a48-4abe-ac30-873f3025885f" />
+
+
+### Step 2:  Provide Unique Name with your 
+
+A unique name is required since there are many workshop attendees, and you need to be able to easily locate your own project.
+Provide the name of the new project as:
+
+<br> `WarehouseOperationsManagement_<userid>` 
+
+<br> Click on ‘Save’ button to save your personal version .
+
+### Step 3: Review the Project
+
+Once the project is saved, open it by clicking on its name in the SAP Build Lobby.  
+You should now see two **pre-created Joule Skills** that are already part of this project:
+
+- `AssignSingleResourceToActivityArea`  
+- `CheckingPickingWorkloadSituation`
+
+<br>
+
+<img width="940" height="398" alt="Pre-created Joule Skills in project" src="https://github.com/user-attachments/assets/634d6108-1fbf-4bf6-97ab-1af8a842880d" />
+
+## 🌟 What's Next
+
+Now that your Joule Studio project is set up, it’s time to **create your first Joule Skill**.  
+This new skill will extend the existing project and connect to the same SAP Build Action used by the pre-created skills.
+
+➡️  [Next Exercise - > Exercise 4 - Create a New Joule Skill](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md)
 
 
