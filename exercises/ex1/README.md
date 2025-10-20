@@ -2,7 +2,7 @@
 
 ## ⚙️ Understand the Action Project
 
-The **Action project** is an **SAP Build Action** — a low-code/no-code API layer that enables **Joule Skills** to securely interact with any backend system.  
+**SAP Build Action** — a low-code/no-code API layer that enables **Joule Skills** to securely interact with any backend system.  
 It allows you to define, test, and expose actions without writing complex integration code, making it easier to connect Joule to enterprise data and processes.
 
 In this hands-on scenario, the Action project connects to a **CAP (Cloud Application Programming) application** deployed on **SAP Business Technology Platform (BTP)**. This CAP service acts as middleware between an end user and SAP S/4HANA, managing the communication through predefined endpoints.
