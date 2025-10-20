@@ -8,16 +8,16 @@ This exercise shows how to build a simple custom Joule Agent in Joule Studio tha
 
 ### Busiess problem and persona   
 
-Before diving into the use case, let's take a moment to get acquainted with our business user from the field who we'll be assisting today. It's really important to understand the business user as thoroughly as possible before considering the Joule Agent. 
+Before diving into the use case, let's take a moment to get acquainted with our business user from the field who we'll be assisting today. It's really important to understand the business user as thoroughly as possible before building your custom Joule Agent. 
 
 Meet Anna, a Warehouse Operations Supervisor who manages service levels by balancing workload and staff across activities. She requires real-time and forecasted views of workload and staffing by qualifications and time slot, plus safe “what‑if” simulations for reallocating resources without affecting live operations.   
 
 
 #### Persona — Warehouse Operations Supervisor
-![Persona](./images/Persona%20Warehouse%20Operations%20Supervisor.png)
+![Persona — Warehouse Operations Supervisor](./images/Persona%20—%20Warehouse%20Operations%20Supervisor.jpeg)
 
 #### Pain Points — Warehouse Operations Supervisor
-![Pain Points](./images/Pain%20Points%20Warehouse%20Operations%20Supervisor%20.png)
+![Pain Points — Warehouse Operations Supervisor](./images/Pain%20Points%20—%20Warehouse%20Operations%20Supervisor.jpeg)
 
 ### You will buid a goal-driven Joule Agent in Joule Studio that: 
 
@@ -28,7 +28,7 @@ Meet Anna, a Warehouse Operations Supervisor who manages service levels by balan
 - Empoweres Anna in her daily activities  
 
 #### Agent for Warehouse Operations
-![Agent for Warehouse Operations](./images/Agent%20for%20Warehouse%20Operations%20.png)
+![Agent for Warehouse Operations](./images/Agent%20for%20Warehouse%20Operations.jpeg)
 
 
 ## Requirements & Prerequisites - already in place
