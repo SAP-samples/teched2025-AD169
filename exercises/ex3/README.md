@@ -65,6 +65,6 @@ You should now see two **pre-created Joule Skills** that are already part of thi
 Now that your Joule Studio project is set up, it’s time to **create your first Joule Skill**.  
 This new skill will extend the existing project and connect to the same SAP Build Action used by the pre-created skills.
 
-➡️  [Next Exercise - > Exercise 4 - Create a New Joule Skill](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md)
+➡️  [Next Exercise - > Exercise 4 - Create a New Joule Skill](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/README.md)
 
 
