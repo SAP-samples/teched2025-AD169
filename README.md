@@ -1,4 +1,4 @@
-# AD-169 - Session Title
+# AD-169 - Extend Your Enterprise: Connect Custom AI Agents to Any System
 
 ## Description
 
@@ -14,9 +14,8 @@ The requirements to follow the exercises in this repository are...
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started](exercises/ex0/)
+<br> Below are the exercises. Please follow them in order to begin your hands-on session
+- [Exercise 0 - Test the Action Project](exercises/ex0/) 
 - [Exercise 1 - Test the Action Project](exercises/ex1/) 
 - [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
 - [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
