@@ -17,7 +17,7 @@ While they can understand conversation context, their logic is **non-adaptive** 
 > 
 >    - through SAP Joule’s conversational interface
 >    - through another Joule Skills
->    - through Joule Agrnt
+>    - through Joule Agent
 
 
 
