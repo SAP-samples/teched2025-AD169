@@ -37,17 +37,23 @@ Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it
 
 <br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
 
-<br> To test the action, provide the following **input parameters** (N1 on the screenshot):
 
-| **Parameter** | **Value** |
-|----------------|-----------|
-| warehouse | `TSEB` |
-| is_simulation | `true` |
-| planning_start | `2025-10-15T00:00:00Z` |
-| planning_horizon_to | `2025-10-16T00:00:00Z` |
-| planning_horizon_from | `2025-10-15T00:00:00Z` |
 
-On the **right side (top panel)**, select the **destination** associated with the action project (N2 on the screenshot):
+####  Step 2.1: Provide Values for Input Parameters
+
+Provide the following values for **input parameters** (N1 on the screenshot):
+ 
+| **Parameter** | **Value** | **Description** |
+|----------------|------------|-----------------|
+| **warehouse** | `TSEB` | Identifies the warehouse where the workload simulation takes place. In this case, `TSEB` represents the warehouse code. |
+| **is_simulation** | `true` | Indicates whether the process should run in simulation mode (`true`) or in execution mode (`false`). When set to `true`, no actual assignments or updates are made in the backend — only simulated results are returned. |
+| **planning_start** | `2025-10-15T00:00:00Z` | Defines the starting date and time of the planning period for workload and resource distribution analysis. |
+| **planning_horizon_to** | `2025-10-16T00:00:00Z` | Specifies the end date and time of the planning horizon — the point until which workload data and assignments are considered. |
+| **planning_horizon_from** | `2025-10-15T00:00:00Z` | Marks the lower boundary of the planning horizon, defining from when to begin evaluating workload and resource data. |
+
+####  Step 2.2: Choose the Destination 
+
+On the **righ-top panel** (N2 on the screenshot), select the **destination** associated with the action project:
  | Destination  |
 ----------|
 | `zewm_autonomous-warehouse-agent-srv-api` |
