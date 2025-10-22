@@ -55,8 +55,26 @@
 <br><img width="940" height="421" alt="image" src="https://github.com/user-attachments/assets/db00ebe8-a3b1-4198-82cf-89fa02fc0e9d" />
 <br>Choose one by one and click on ‘Add’ button.
 <br><img width="940" height="196" alt="image" src="https://github.com/user-attachments/assets/d113fa6c-a875-41e2-9040-887d6a302b35" />
-<br><br>Save the Agent
 
 <br> <br>  - [Next Exercise - > Exercise 6 - Test an Agent in a Private Environment](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/README.md/ex6/README.md)
+<br><br>4: In the ‘Tools’ Section, add ‘Documents’ as Tools:
+<br>Click on ‘Add Tool’ -> ’Documents’ 
+<br>Enter the below details:
+<br>**Tool name**: ‘Warehouse Operations Management Document’ 
+<br>**Description**: ‘Guidelines for Warehouse Operations Management App’
+<br>**Destination variable**: AICore
+<br>**Resource Group ID**: MFSResourceGroup
+<br>**Collection ID**: 620785a0-b5fa-4901-94be-2e194f926953
+<br>Click on Add button
+<br><br><img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/762e9804-604d-49e3-b0fb-f253ec37d136" />
+
+<br><br>5:  In the ‘Tools’ Section, add ‘Calculator’ as Tools
+<br>Click on ‘Add Tool’ -> ’Calculator’
+<br>**Tool name**: calculator
+<br>**Description**:  Calculator
+<br><br><img width="745" height="382" alt="image" src="https://github.com/user-attachments/assets/17bb8e9b-f63d-4f82-9463-eb75dfe11821" />
+
+<br> Click on ‘Add’ button.
+<br><br>Save the Agent
 
 
