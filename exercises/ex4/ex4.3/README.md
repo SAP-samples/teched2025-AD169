@@ -57,4 +57,4 @@
 <br><br>Once the details are added the ‘Preview’ should be seen in the right panel
 <br><br><img width="939" height="522" alt="image" src="https://github.com/user-attachments/assets/4b3f86a9-cd84-4926-a175-00626e4d7b22" />
 <br>Click on back button on top left to return to the skill builder.
-<br> <br>  - [Next Exercise - > Exercise 4.4 - Configure the Output Parameter](https://github.com/SAP-samples/teched2025-AD169/tree/6d4d185a4dc5c192ce2f65d6a286b84d98ff7772/exercises/ex4/ex4.4/README.md)
+<br> <br>  - [Next Exercise - > Exercise 4.4 - Configure the Output Parameter](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.4/README.md)
