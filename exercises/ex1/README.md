@@ -40,7 +40,7 @@ Search for the action project, `GTTReadService`. Click on it to open
 ###  Step 2:  Set Required Values for Testing
 1. Click on the Test tab.
 2. Select the destination as `gttGetService` from the dropdown.
-3. enter the requestId filter string as "trackingId eq  '6100005200'"(without double quotes).
+3. enter the requestId filter string as `trackingId eq  '6100005200'`.
 4. Click the Test button. 
 <img width="1800" height="702" alt="image" src="https://github.com/user-attachments/assets/58225265-f295-4a8e-ad1a-0db5ad8966e3" />
 
