@@ -5,33 +5,35 @@
 **SAP Build Action** — a low-code/no-code API layer that enables **Joule Skills** to securely interact with any backend system.  
 It allows you to define, test, and expose actions without writing complex integration code, making it easier to connect Joule to enterprise data and processes.
 
-In this hands-on scenario, the Action project connects to a **CAP (Cloud Application Programming) application** deployed on **SAP Business Technology Platform (BTP)**. This CAP service acts as middleware between an end user and SAP S/4HANA, managing the communication through predefined endpoints.
+In this hands-on scenario, we will use two action projects to connect to an **SAP Business Networks GTT system**. One Action projects  to read Shipment details using its Tracking ID or Delay Status (GTTReadService) & the other to create a shipment (GTTShipment).
 
-This Action project is **already used by two Joule Skills**:
-- `Check Workload Situation`: retrieves a list of activity area workloads.  
-- `Assign Single Resource to Activity Area`: assigns a selected resource to a specific activity area.  
+The GTTReadService Action project is **already used by two Joule Skills**:
+- `Track Shipment`: A Skill to track shipments using its Tracking ID.  
+- `Delayed Shipment`: A skill to get all delayed shipments using its Delay Status.
 
-In this hands-on, we will focus on the 3d Joule Skill — `Simulate Workforce Optimization`,
-which reuses the same already created Action project to simulate and optimize workforce distribution across activity areas based on workload and planning horizons.
+The GTTShipment Action project is used by the Joule Skill: 
+- `Create Shipment`: A skill to create shipment or update shipment with ONLY carrier name.
 
 <br>
 
-Now that we understand the Action project’s role in the architecture, let’s test it to confirm that the backend connection and logic work as expected.
+Now that we understand the Action project’s role in the architecture, let’s test it to confirm that the backend connection works as expected.
 
 ## 🧩  Test Action Project
 
 Testing validates that:
-- The backend destination (`zewm_autonomous-warehouse-agent-srv-api`) is correctly configured and reachable.  
+- The backend destination (`gttGetService`) is correctly configured and reachable.  
 - The action correctly receives and processes input parameters.  
-- The output data and logic behave as designed (for example, `is_simulation = true` triggers a simulation scenario).  
-
+- The output data is as expected.
+- 
 ###  Step 1: Open Action Project
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
-Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
+Search for the action project, ‘GTTReadService’. Click on it to open
 
-<br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
+<img width="1780" height="424" alt="image" src="https://github.com/user-attachments/assets/e3ea2c66-6da5-45a8-b07a-b0b91141b3eb" />
+<br>
+![Uploading image.png…]()
 
 ###  Step 2:  Set Required Values for Testing
 
