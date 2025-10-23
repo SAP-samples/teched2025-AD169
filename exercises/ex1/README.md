@@ -45,10 +45,10 @@ Search for the action project, `GTTReadService`. Click on it to open
 <img width="1800" height="702" alt="image" src="https://github.com/user-attachments/assets/58225265-f295-4a8e-ad1a-0db5ad8966e3" />
 
 ###  Step 3:  Get Succesful API Response 
+<br> <br> Result: Response should be ‘200 OK’ and you should be able to view the response payload. 
 
 <img width="1798" height="851" alt="image" src="https://github.com/user-attachments/assets/a2060ff3-d9a3-47d6-a419-6cd589548deb" />
 
-<br> <br> Result: Response should be ‘200 OK’ and you should be able to view the response payload. 
 
 ## 🌟 What's Next
 
