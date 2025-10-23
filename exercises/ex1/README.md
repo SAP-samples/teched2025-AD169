@@ -33,7 +33,8 @@ Search for the action project, ‘GTTReadService’. Click on it to open
 
 <img width="1780" height="424" alt="image" src="https://github.com/user-attachments/assets/e3ea2c66-6da5-45a8-b07a-b0b91141b3eb" />
 <br>
-![Uploading image.png…]()
+<img width="1797" height="517" alt="image" src="https://github.com/user-attachments/assets/9973859d-a4a7-41b7-8e84-7e958033edf0" />
+
 
 ###  Step 2:  Set Required Values for Testing
 
