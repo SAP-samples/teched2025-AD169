@@ -24,19 +24,25 @@ Testing validates that:
 - The backend destination (`gttGetService`) is correctly configured and reachable.  
 - The action correctly receives and processes input parameters.  
 - The output data is as expected.
-- 
+  
 ###  Step 1: Open Action Project
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
-Search for the action project, ‘GTTReadService’. Click on it to open
+Search for the action project, `GTTReadService`. Click on it to open
 
 <img width="1780" height="424" alt="image" src="https://github.com/user-attachments/assets/e3ea2c66-6da5-45a8-b07a-b0b91141b3eb" />
 <br>
+
 <img width="1797" height="517" alt="image" src="https://github.com/user-attachments/assets/9973859d-a4a7-41b7-8e84-7e958033edf0" />
 
 
 ###  Step 2:  Set Required Values for Testing
+1. Click on the Test tab.
+2. Select the destination as `gttGetService` from the dropdown.
+3. enter the requestId filter string as "trackingId eq  '6100005200'"(without double quotes).
+4. Click the Test button. 
+<img width="1800" height="702" alt="image" src="https://github.com/user-attachments/assets/58225265-f295-4a8e-ad1a-0db5ad8966e3" />
 
 <br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
 
