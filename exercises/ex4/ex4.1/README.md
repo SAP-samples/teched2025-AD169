@@ -14,7 +14,7 @@ By using this Joule Skill, the Agent will be able to:
 - Run a **non-disruptive optimization simulation** to suggest the best reallocation of resources.  
 - Return results that include **staffing recommendations**, **surplus/deficit per area**, and **projected KPI/SLA impact**.  
 
-> In essence, this Joule Skill transforms slow, manual “what-if” analysis into an **automated, conversational simulation**, improving agility, transparency, and service-level reliability.
+In essence, this Joule Skill transforms slow, manual “what-if” analysis into an **automated, conversational simulation**, improving agility, transparency, and service-level reliability.
 
 ---
 
@@ -53,10 +53,14 @@ By using this Joule Skill, the Agent will be able to:
 
 7. **Add the following Inputs with Descriptions.**
 
-   > 💡 **Good to know:**  
-   > These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).  
-   > The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.  
-   > This ensures consistency between your Action Project and the Joule Skill, so the data you send and receive aligns seamlessly across both.
+   These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).
+   The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.
+   This ensures consistency between your Action Project and the Joule Skill, so the data you send and receive aligns seamlessly across both.
+
+> 💡 **Good to know:**  
+> The **Input Description** is also important — here you can explain in **natural language** the expected data format for Joule, such as specifying **time**, **dates**, or **identifiers**.  
+> This helps Joule and Joule Agents correctly interpret user inputs and improves response accuracy.
+
 
    | Serial Number | Name           | Description                                      | Required |
    |----------------|----------------|--------------------------------------------------|-----------|
@@ -67,8 +71,10 @@ By using this Joule Skill, the Agent will be able to:
    | 5 | Warehouse | Warehouse ID | ✅ Checked |
 
 
-   > [!NOTE]  
-   > All **Identifiers** are generated automatically and match the **Name** field.
+> [!NOTE]  
+> All **Identifiers** are generated automatically and match the **Name** field.
+
+
 
 8. Once all inputs are added, **click Save** to confirm the configuration.
 
