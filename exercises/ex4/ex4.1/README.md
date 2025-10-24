@@ -1,4 +1,4 @@
-## Exercise 4.1 –  Define Joule Skill with Inputs & Output
+## Exercise 4.1 –  Define Joule Skill with Input & Output Parameters
 
 1. **Click** on the **Create** button and choose **Joule Skill**.  
 
