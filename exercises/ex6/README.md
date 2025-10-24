@@ -79,7 +79,7 @@ You’ve successfully completed the **end-to-end Agentic Warehouse Operations sc
 
 Your agent can now intelligently analyze workloads, simulate optimizations, and support real-time operational decision-making in a production-ready setup.  
 
-You’ve officially mastered the **Joule Studio Agent Builder** — well done! 🚀  
+🏁 **You’re now ready to build, extend, and scale your own Joule Agents across enterprise domains!**
 
 >  If you’d like to explore the **full agent lifecycle** — including how to release, deploy, and test your agent in a shared environment — continue to the next exercise.
 >   
