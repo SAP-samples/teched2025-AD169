@@ -71,7 +71,16 @@ You have successfully:
 - Verified that it correctly analyzes workloads, identifies critical areas, and performs simulations.  
 - Ensured that API destinations and Joule Skills are functioning as expected.  
 
+
 ---
 
-➡️ **Next Exercise:** [**Exercise 7 – Release, Deploy, and Test the Agent in a Shared Environment**](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex7/README.md)
+### 🎉 Congratulations!
+You’ve successfully completed the **end-to-end Agentic Warehouse Operations scenario** — from creating actions and skills, to building an autonomous Joule Agent, and finally testing it in your private environment.  
 
+Your agent can now intelligently analyze workloads, simulate optimizations, and support real-time operational decision-making in a production-ready setup.  
+
+You’ve officially mastered the **Joule Studio Agent Builder** — well done! 🚀  
+
+>  If you’d like to explore the **full agent lifecycle** — including how to release, deploy, and test your agent in a shared environment — continue to the next exercise.
+>   
+> ➡️ **Next Exercise:** [**Exercise 7 – Release, Deploy, and Test the Agent in a Shared Environment**](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex7/README.md)
