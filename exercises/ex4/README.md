@@ -1,4 +1,4 @@
-## Exercise 4: Create a new Joule Skill
+## Exercise 4: Create a Joule Skill
 
 ## 💡 Understanding Joule Skills
 
@@ -22,7 +22,7 @@ While they can understand conversation context, their logic is **non-adaptive** 
 
 
 
-## 🧩 Create a new Joule Skill
+## 🧩 Create a Joule Skill
 
 In this section you will create Joule skill, Map Input to the Skill, Add a Send Message and Configure the Output parameters
 - [Exercise 4.1 - Create Joule Skill](ex4.1/README.md)
