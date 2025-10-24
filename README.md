@@ -50,11 +50,11 @@ Meet Anna, a Warehouse Operations Supervisor who manages service levels by balan
 ## Exercises
 
 <br> Below are the exercises. Please follow them in order to begin your hands-on session
-- [Exercise 0 - Getting Started - Login to the Tenant](exercises/ex0/) 
-- [Exercise 1 - Test the Action Project](exercises/ex1/) 
-- [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/)
-- [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/)
-- [Exercise 4 - Create a Joule Skill](exercises/ex4/)
+- [Exercise 0 - Getting Started - Login to the Tenant](exercises/ex0/README.md) 
+- [Exercise 1 - Test the Action Project](exercises/ex1/README.md) 
+- [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/README.md)
+- [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/README.md)
+- [Exercise 4 - Create a Joule Skill](exercises/ex4/README.md)
     - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex4/ex4.1/README.md)
     - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex4/ex4.2/README.md)
     - [Exercise 4.3 - Exercise 4 Sub Exercise 3 Description](exercises/ex4/ex4.3/README.md)
