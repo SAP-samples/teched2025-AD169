@@ -1,4 +1,4 @@
-## Exercise 4.2 – Bring the SAP Build Action into the Joule Skill and Map Inputs
+## Exercise 4.2 – Bring the SAP Build Action into the Joule Skill & Map Inputs
 
 In this step, you will connect the **SAP Build Action** tested in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md) to your **Joule Skill**, and then map the skill inputs to the action parameters.  
 This ensures that when the Joule Agent triggers the skill, it correctly sends and processes all input values through the backend system.
