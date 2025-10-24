@@ -55,35 +55,23 @@ Meet Anna, a Warehouse Operations Supervisor who manages service levels by balan
 - [Exercise 2 - Create a Private Environment for Testing](exercises/ex2/README.md)
 - [Exercise 3 - Copy the Project ‘WarehouseOperationsManagement’](exercises/ex3/README.md)
 - [Exercise 4 - Create a Joule Skill](exercises/ex4/README.md)
-    - [Exercise 4.1 - Exercise 4 Sub Exercise 1 Description](exercises/ex4/ex4.1/README.md)
-    - [Exercise 4.2 - Exercise 4 Sub Exercise 2 Description](exercises/ex4/ex4.2/README.md)
-    - [Exercise 4.3 - Exercise 4 Sub Exercise 3 Description](exercises/ex4/ex4.3/README.md)
-    - [Exercise 4.4 - Exercise 4 Sub Exercise 4 Description](exercises/ex4/ex4.4/README.md)
-     
+    - [Exercise 4.1 - Define Joule Skill & Input Parameters](exercises/ex4/ex4.1/README.md)
+    - [Exercise 4.2 - Bring the SAP Build Action into the Joule Skill & Map Inputs](exercises/ex4/ex4.2/README.md)
+    - [Exercise 4.3 - Add a Send message](exercises/ex4/ex4.3/README.md)
+    - [Exercise 4.4 - Configure the Output Parameter](exercises/ex4/ex4.4/README.md)
+
 - [Exercise 5 - Create a Joule Agent](exercises/ex5/)
 - [Exercise 6 - Test your Joule Agent in Private Environment
 ](exercises/ex6/)
-- [Exercise 7 -Additional Section](exercises/ex7/)
-    - [Exercise 7.1 - Exercise 7 Sub Exercise 1 Description](exercises/ex7/README.md)
-    - [Exercise 7.2 - Exercise 7 Sub Exercise 2 Description](exercises/ex7/README.md)
+- [Exercise 7 -Additional Section: Release, Deploy, and Test the Project in a Shared Environment](exercises/ex7/)
 
-**OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
-**IMPORTANT**
 
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
-## Contributing
-Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
-
-## Code of Conduct
-Please read the [SAP Open Source Code of Conduct](https://github.com/SAP-samples/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## How to obtain support
 
-Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+Support for the content in this repository is available during the actual time of the on-site session for which this content has been designed.
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
