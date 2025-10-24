@@ -65,7 +65,7 @@ The agent returns three critical activity areas — `T010`, `T151`, and `T152` �
 
 ---
 
-### 🌟 Result
+### ✅ Result
 You have successfully:
 - Tested the **Warehouse Workforce Optimization Agent** in your Private Environment.  
 - Verified that it correctly analyzes workloads, identifies critical areas, and performs simulations.  
