@@ -29,6 +29,12 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
    - **Name:** `Warehouse Workforce Optimization Agent`  
    - **Description:** `Agent to check critical workloads in the warehouse and execute optimal reassignment of workforce to activity areas.`  
 
+> 💡 **Good to Know:**  
+> Just like **Joule Skills**, the **Agent Description** plays a crucial role in how **Joule** identifies and activates the right agent during runtime.  
+> A clear, business-oriented description helps Joule understand *when this agent should be called* and *for which type of user requests*.  
+>  
+> By describing the agent’s purpose precisely — such as “analyzing critical workloads” and “optimizing workforce allocation” — you ensure that Joule can automatically match user intents to this specific agent, improving relevance and accuracy across enterprise scenarios.
+
 ---
 
 ### 2. Configure the Agent Behavior
