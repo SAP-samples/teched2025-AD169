@@ -18,7 +18,9 @@ Each Joule Agent is built around four key cognitive abilities:
 2. **Reflection** – The agent evaluates its own steps, identifies errors or missing data, and self-corrects to reach the desired outcome.  
 3. **Tool Usage** – The agent dynamically invokes SAP Build Actions, Joule Skills, or other APIs to perform operations, retrieve data, or trigger systems.  
 4. **Collaboration** – Agents can cooperate with other agents or human users, engaging in dialogue, confirmation, or validation when business logic requires oversight.
-   
+
+![Joule Skills vs Agents](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex5/Joule%20Skills%20vs%20Agents.jpg)
+
 ---
 
 ### ⚙️ Why This Matters
