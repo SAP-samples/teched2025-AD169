@@ -1,4 +1,24 @@
-## Exercise 4.1 –  Define Joule Skill with Input & Output Parameters
+## Exercise 4.1 – Define Joule Skill with Input & Output Parameters
+
+In this exercise, you will create a new **Joule Skill** called **Simulate Picking Workforce Optimization**.
+This skill forms the foundation of the **Agentic Warehouse Operations** use case, and will enable the AI Agent to simulate and optimize workforce allocation across warehouse activity areas.
+
+---
+
+### ⚙️ **Why We Need This Joule Skill**
+
+The **Simulate Picking Workforce Optimization** Joule Skill will allow the **Warehouse Operations Agent** to perform intelligent, data-driven workload balancing without disrupting live operations.  
+
+By using this Joule Skill, the Agent will be able to:  
+- Fetch **real-time workload and staffing data** from backend systems.  
+- Run a **non-disruptive optimization simulation** to suggest the best reallocation of resources.  
+- Return results that include **staffing recommendations**, **surplus/deficit per area**, and **projected KPI/SLA impact**.  
+
+> In essence, this Joule Skill transforms slow, manual “what-if” analysis into an **automated, conversational simulation**, improving agility, transparency, and service-level reliability.
+
+---
+
+### 1. Create a New Joule Skill
 
 1. **Click** on the **Create** button and choose **Joule Skill**.  
 
@@ -8,39 +28,35 @@
    - **Name:** `SimulateWorkforceOptimization`  
    - **Description:** `Simulate Picking Workforce Optimization`
 
-<br> 
+3. **Click** on **Create** to confirm.  
 
-   > 💡 **Good to know:**
-   >  
+   <img width="939" height="346" alt="image" src="https://github.com/user-attachments/assets/98a9cbea-a8c7-4f93-bf20-5abf982de7b0" />
+
+> 💡 **Good to know:**  
    > Joule and Joule Agents rely on the **Skill Description** to determine **when and how to use** a specific skill.  
    > The description helps the system verify the skill’s intent, understand its context, and match it accurately to the user’s request.  
    > A precise, well-structured description ensures that the right skill is triggered at the right time — improving both **relevance** and **reliability** of the agent’s responses.
 
-<br>
+---
 
-**Click** on the **Create**  to confirm.  
+### 2. Define Skill Inputs and Outputs
 
-   <img width="939" height="346" alt="image" src="https://github.com/user-attachments/assets/98a9cbea-a8c7-4f93-bf20-5abf982de7b0" />
+4. Once the Joule Skill is created, **click on it** to open the **Skill Builder**.
 
-3. Once the Joule Skill is created, **click on it** to open the **Skill Builder**.
-
-4. **Click** on the **`<<`** button on the right side of the screen to open the skill’s **Input** and **Output Parameters**.  
+5. **Click** on the **`<<`** button on the right side of the screen to open the skill’s **Input** and **Output Parameters**.  
 
    <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/c63337c3-a533-4700-b1d0-a8db7c061a1e" />
 
-5. Go to the **Parameters** tab → expand **Skill Inputs** → **click** **Configure** to define the skill inputs.  
+6. Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
 
    <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/8f6aa26c-46a3-4cd9-a87d-31dcb0ae9766" />
 
-
-
-6. **Add the following Inputs with Descriptions.**
+7. **Add the following Inputs with Descriptions.**
 
    > 💡 **Good to know:**  
    > These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).  
-   > The Joule Skill will invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.  
+   > The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.  
    > This ensures consistency between your Action Project and the Joule Skill, so the data you send and receive aligns seamlessly across both.
-
 
    | Serial Number | Name           | Description                                      | Required |
    |----------------|----------------|--------------------------------------------------|-----------|
@@ -50,11 +66,17 @@
    | 4 | PlanningTo | Planning to date and time converted to UTC | ✅ Checked |
    | 5 | Warehouse | Warehouse ID | ✅ Checked |
 
-> [!NOTE]  
+
+   > [!NOTE]  
    > All **Identifiers** are generated automatically and match the **Name** field.
 
-   Once all inputs are added, **Click** on the **Create**  **Save**.
+8. Once all inputs are added, **click Save** to confirm the configuration.
 
 ---
 
-➡️ **Next Exercise:** [Exercise 4.2 – Mapping Input Variables of the Action Project with Joule Skill Inputs](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.2/README.md)
+✅ **Result:**  
+You have successfully created the **Simulate Picking Workforce Optimization** Joule Skill, defining its purpose and input parameters.  
+
+---
+
+➡️ **Next Exercise:** [Exercise 4.2 – Bring the SAP Build Action into the Joule Skill and Map Inputs](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.2/README.md)
