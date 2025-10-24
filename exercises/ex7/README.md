@@ -70,5 +70,8 @@ You have now:
 
 
 ---
+You’ve now mastered the **complete Joule Agent Lifecycle** — from private design and validation to enterprise-grade deployment
+
+👏 Fantastic work — you’ve officially reached the finish line of this TechEd exercise series
 
 ➡️ **Next Step:** [Return to the Exercise Overview](https://github.com/SAP-samples/teched2025-AD169.git)
