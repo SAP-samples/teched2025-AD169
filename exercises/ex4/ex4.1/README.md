@@ -1,4 +1,4 @@
-## Exercise 4.1 – Define Joule Skill with Input Parameters
+## Exercise 4.1 – Define Joule Skill & Input Parameters
 
 In this exercise, you will create a new **Joule Skill** called **Simulate Picking Workforce Optimization**.
 This skill forms the foundation of the **Agentic Warehouse Operations** use case, and will enable the AI Agent to simulate and optimize workforce allocation across warehouse activity areas.
