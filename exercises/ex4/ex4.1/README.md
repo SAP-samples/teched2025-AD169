@@ -62,13 +62,13 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 > This helps Joule and Joule Agents correctly interpret user inputs and improves response accuracy.
 
 
-   | Serial Number | Name           | Description                                      | Required |
-   |----------------|----------------|--------------------------------------------------|-----------|
-   | 1 | IsSimulation | Flag to check the simulation | ✅ Checked |
-   | 2 | PlanningStart | Planning start date and time converted to UTC | ✅ Checked |
-   | 3 | PlanningFrom | Planning from date and time converted to UTC | ✅ Checked |
-   | 4 | PlanningTo | Planning to date and time converted to UTC | ✅ Checked |
-   | 5 | Warehouse | Warehouse ID | ✅ Checked |
+   | Name           | Description                                      | Required |
+   |----------------|--------------------------------------------------|-----------|
+   | IsSimulation | Flag to check the simulation | ✅ Checked |
+   | PlanningStart | Planning start date and time converted to UTC | ✅ Checked |
+   | PlanningFrom | Planning from date and time converted to UTC | ✅ Checked |
+   | PlanningTo | Planning to date and time converted to UTC | ✅ Checked |
+   | Warehouse | Warehouse ID | ✅ Checked |
 
 
 > [!NOTE]  
