@@ -124,7 +124,9 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 | **Backup LLM** | Toggle **Off** |
 
 In **Advanced Configuration**, check the box for **Post-processing**.
-
+> 💡 **Good to Know:**  
+> The Advanced Configuration allows you to add **Pre-processing Steps** and **Post-processing Steps**. This forces the agent to decompose the steps to improve planning, reasoning and optimizes the response the agent will output.
+>  
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/bff5c61c-eaed-4a4c-a68f-f13e1d3a00a6" />
 
 ---
