@@ -72,7 +72,7 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
    | PlanningStart | Planning start date and time converted to UTC | DateTime | ✅ Checked |
    | PlanningFrom | Planning from date and time converted to UTC | DateTime | ✅ Checked |
    | PlanningTo | Planning to date and time converted to UTC | DateTime | ✅ Checked |
-   | Warehouse | Warehouse ID | ✅ Checked |
+   | Warehouse | Warehouse ID | String | ✅ Checked |
 
 
 > [!NOTE]  
