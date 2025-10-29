@@ -1,4 +1,4 @@
-<img width="1915" height="782" alt="image" src="https://github.com/user-attachments/assets/e686f489-c999-4869-9bb9-907980a25d2f" />## Exercise 4.1 – Define Joule Skill & Input Parameters
+## Exercise 4.1 – Define Joule Skill & Input Parameters
 
 In this exercise, you will create a new **Joule Skill** called **Simulate Picking Workforce Optimization**.
 This skill forms the foundation of the **Agentic Warehouse Operations** use case, and will enable the AI Agent to simulate and optimize workforce allocation across warehouse activity areas.
@@ -78,7 +78,7 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 > [!NOTE]  
 > All **Identifiers** are generated automatically and match the **Name** field.
 
-
+<img width="1915" height="782" alt="image" src="https://github.com/user-attachments/assets/e686f489-c999-4869-9bb9-907980a25d2f" />
 
 8. Once all inputs are added, **click Save** to confirm the configuration.
 
