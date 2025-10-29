@@ -45,10 +45,9 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 5. **Click** on the **`<<`** button on the right side of the screen to open the skill’s General Parameters.
 
-6. **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent.
-
 <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/c63337c3-a533-4700-b1d0-a8db7c061a1e" />
 
+6. **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent.
 
 ### 3. Define Skill Inputs and Outputs
 
