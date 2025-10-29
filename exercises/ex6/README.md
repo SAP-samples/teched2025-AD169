@@ -41,7 +41,7 @@ Click **Test** to start your session.
 
 #### 🧠 Prompt 1 – Run a Simulation
 **Prompt:**
->  Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 6AM as planning start? In case critical areas exist, only simulate optimal resource allocation.
+>  Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 7AM as planning start? In case critical areas exist, only simulate optimal resource allocation.
 
 
 **Expected Result:**  
