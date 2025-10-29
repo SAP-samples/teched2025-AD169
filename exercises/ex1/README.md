@@ -59,6 +59,8 @@ On the **righ-top panel** (N2 on the screenshot), select the **destination** ass
 | `zewm_autonomous-warehouse-agent-srv-api` |
 
 ###  Step 3:  Get Succesful API Response 
+
+To the **right** of your screen, select the **Test Button**
 <br><img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/fefe3469-cd5d-4923-b5eb-6c274a9afcd4" />
 <br> <br> Result: Response should be ‘200 OK’
 
