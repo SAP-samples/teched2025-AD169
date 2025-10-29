@@ -1,4 +1,4 @@
-## Exercise 4.1 – Define Joule Skill & Input Parameters
+<img width="1915" height="782" alt="image" src="https://github.com/user-attachments/assets/e686f489-c999-4869-9bb9-907980a25d2f" />## Exercise 4.1 – Define Joule Skill & Input Parameters
 
 In this exercise, you will create a new **Joule Skill** called **Simulate Picking Workforce Optimization**.
 This skill forms the foundation of the **Agentic Warehouse Operations** use case, and will enable the AI Agent to simulate and optimize workforce allocation across warehouse activity areas.
@@ -39,19 +39,24 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 ---
 
-### 2. Define Skill Inputs and Outputs
+### 2. Define Skill General Parameters
 
 4. Once the Joule Skill is created, **click on it** to open the **Skill Builder**.
 
-5. **Click** on the **`<<`** button on the right side of the screen to open the skill’s **Input** and **Output Parameters**.  
+5. **Click** on the **`<<`** button on the right side of the screen to open the skill’s General Parameters.
 
-   <img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/c63337c3-a533-4700-b1d0-a8db7c061a1e" />
+6. **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent.
 
-6. Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
+<img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/c63337c3-a533-4700-b1d0-a8db7c061a1e" />
+
+
+### 3. Define Skill Inputs and Outputs
+
+8. Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
 
    <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/8f6aa26c-46a3-4cd9-a87d-31dcb0ae9766" />
 
-7. **Add the following Inputs with Descriptions.**
+9. **Add the following Inputs with Descriptions.**
 
    These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).
    The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.
@@ -62,12 +67,12 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 > This helps Joule and Joule Agents correctly interpret user inputs and improves response accuracy.
 
 
-   | Name           | Description                                      | Required |
-   |----------------|--------------------------------------------------|-----------|
-   | IsSimulation | Flag to check the simulation | ✅ Checked |
-   | PlanningStart | Planning start date and time converted to UTC | ✅ Checked |
-   | PlanningFrom | Planning from date and time converted to UTC | ✅ Checked |
-   | PlanningTo | Planning to date and time converted to UTC | ✅ Checked |
+   | Name           | Description                                      | Type      | Required |
+   |----------------|--------------------------------------------------|-----------|-----------|
+   | IsSimulation | Flag to check the simulation | String | ✅ Checked |
+   | PlanningStart | Planning start date and time converted to UTC | DateTime | ✅ Checked |
+   | PlanningFrom | Planning from date and time converted to UTC | DateTime | ✅ Checked |
+   | PlanningTo | Planning to date and time converted to UTC | DateTime | ✅ Checked |
    | Warehouse | Warehouse ID | ✅ Checked |
 
 
