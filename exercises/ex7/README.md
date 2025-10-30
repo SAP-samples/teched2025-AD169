@@ -35,10 +35,11 @@ Releasing and deploying your project to a **Shared Environment** allows:
 
    | Destination | Value |
    |--------------|--------|
-   | **AICore** | `included-ai-core` |
+   | **AICore** | `document-grounding` |
    | **WHSOPMNG_DEST** | `zewm-autonomous-warehouse-agent-srv-api` |
 
-   ![Destination Setup](https://github.com/user-attachments/assets/bc0dba7d-1806-4f51-be4e-7f733559a05b)
+   <img width="671" height="585" alt="image" src="https://github.com/user-attachments/assets/3aefe330-cf75-455c-bed1-892ef593c975" />
+
 
 5. Click **Deploy**.  
    The project will begin deployment and show as **Deployed** once complete.  
