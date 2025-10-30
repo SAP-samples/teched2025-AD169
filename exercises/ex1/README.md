@@ -90,10 +90,11 @@ To the **right** of your screen, select the **Test Button**
 
 <img width="1695" height="895" alt="image" src="https://github.com/user-attachments/assets/12b11c3b-db14-445e-9623-30e96bfc0294" />
 
-###  Step 4:  Check the Test Result Response to be in green and ‘200 OK’
+###  Step 6 :  Check the Test Result Response to be in green and ‘200 OK’
 
 <img width="1703" height="897" alt="image" src="https://github.com/user-attachments/assets/5fd5dc05-dab1-4f53-bf37-005d9a80301b" />
 
+Here we see the data retrieved from the Warehouse Management Application via the action. 
 
 ## 🌟 What's Next
 
