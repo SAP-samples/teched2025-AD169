@@ -76,7 +76,7 @@ You would design a **Send Message** when:
 
 ### 3. Add Attributes
 
-10. In the **Attributes** section, click **Add Attribute** and create the following:  
+11. In the **Attributes** section, click **Add Attribute** and create the following:  
  
 
    | Type | Label | Value (click on the `<>` button) |
@@ -86,12 +86,12 @@ You would design a **Send Message** when:
    | Text | Activity Area | `Joule.Action.Result → value → activity_area` |
    | Text | Resource Type | `Joule.Action.Result → value → resource_type` |
 
-11. Click **Save** to confirm.  
+12. Click **Save** to confirm.  
     Once the details are added, the **Preview** should appear in the right panel.
 
    <img width="939" height="522" alt="image" src="https://github.com/user-attachments/assets/4b3f86a9-cd84-4926-a175-00626e4d7b22" />
 
-12. Click the **Back** button in the top-left corner to return to the Skill Builder.
+13. Click the **Back** button in the top-left corner to return to the Skill Builder.
 
 ---
 
