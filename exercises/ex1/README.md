@@ -39,8 +39,13 @@ Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it
 
 ###  Step 2:  Set Required Values for Testing
 
-<br><img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/97668dfc-678d-44c9-ad5e-feacee11c305" />
+Click the 'Test' Tab
 
+<img width="1701" height="901" alt="image" src="https://github.com/user-attachments/assets/1e38b025-a884-426f-bcb2-f7d9107140b9" />
+
+Here we see the categories 'Connectivity' and the 'Test Input Values'
+
+<img width="1701" height="899" alt="image" src="https://github.com/user-attachments/assets/fae99491-9c52-4cbb-a6d6-3d34cf9ee147" />
 
 
 ####  Step 2.1: Provide Values for Input Parameters
@@ -54,6 +59,9 @@ Provide the following values for **input parameters** (N1 on the screenshot):
 | **planning_start** | `2025-10-15T00:00:00Z` | Defines the starting date and time of the planning period for workload and resource distribution analysis. |
 | **planning_horizon_to** | `2025-10-16T00:00:00Z` | Specifies the end date and time of the planning horizon — the point until which workload data and assignments are considered. |
 | **planning_horizon_from** | `2025-10-15T00:00:00Z` | Marks the lower boundary of the planning horizon, defining from when to begin evaluating workload and resource data. |
+
+<img width="1698" height="854" alt="image" src="https://github.com/user-attachments/assets/f8d35279-075d-4017-9e24-455ec3b1a3c3" />
+
 
 ####  Step 2.2: Choose the Destination 
 
