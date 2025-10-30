@@ -40,11 +40,11 @@ Follow these steps:
    
 <img width="1696" height="835" alt="image" src="https://github.com/user-attachments/assets/e0913212-f3e6-496e-aac9-e2f211b20ce5" />
 
-### Step 2:  Provide Unique Name with your 
+### Step 2:  Provide Unique Name with your User ID
 
 A unique name is required since there are many workshop attendees, and you need to be able to easily locate your own project.
 
-1. Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>```
+1. Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>``` (replacing <userid> with your user ID)
    <img width="1576" height="660" alt="image" src="https://github.com/user-attachments/assets/51348f6d-8974-45a2-9906-3e128b1b660d" />
 
 2. Click on ‘Save’ button to save your personal version
