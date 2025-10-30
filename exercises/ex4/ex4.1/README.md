@@ -63,15 +63,6 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 3.2 **Add the following Inputs with Descriptions.**
 
-   These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).
-   The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.
-   This ensures consistency between your Action Project and the Joule Skill, so the data you send and receive aligns seamlessly across both.
-
-> 💡 **Good to know:**  
-> The **Input Description** is also important — here you can explain in **natural language** the expected data format for Joule, such as specifying **time**, **dates**, or **identifiers**.  
-> This helps Joule and Joule Agents correctly interpret user inputs and improves response accuracy.
-
-
    | Name           | Description                                      | Type      | Required |
    |----------------|--------------------------------------------------|-----------|-----------|
    | IsSimulation | Flag to check the simulation | String | ✅ Checked |
@@ -80,11 +71,19 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
    | PlanningTo | Planning to date and time converted to UTC | DateTime | ✅ Checked |
    | Warehouse | Warehouse ID | String | ✅ Checked |
 
-
 > [!NOTE]  
 > All **Identifiers** are generated automatically and match the **Name** field.
 
 <img width="1915" height="782" alt="image" src="https://github.com/user-attachments/assets/e686f489-c999-4869-9bb9-907980a25d2f" />
+
+   These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).
+   The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.
+   This ensures consistency between your Action Project and the Joule Skill, so the data you send and receive aligns seamlessly across both.
+
+> 💡 **Good to know:**  
+> The **Input Description** is also important — here you can explain in **natural language** the expected data format for Joule, such as specifying **time**, **dates**, or **identifiers**.  
+> This helps Joule and Joule Agents correctly interpret user inputs and improves response accuracy.
+
 
 3.3 Once all inputs are added, **click Save** to confirm the configuration.
 
