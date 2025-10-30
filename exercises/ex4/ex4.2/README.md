@@ -30,17 +30,21 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 4. Once the action call is added, **click on it** to open the right-hand configuration panel for **Input** and **Output Parameters**.  
 
-   <img width="940" height="387" alt="image" src="https://github.com/user-attachments/assets/9bc994c2-9057-48f7-bcd1-5c7f00fad8f6" />
+   <img width="1696" height="836" alt="image" src="https://github.com/user-attachments/assets/2b716747-b432-4dd0-9af2-a4d8015deafe" />
 
-5. Add the **Destination Variable** — it defines where the action’s response data will be stored.  
+
+5. Add the **Destination Variable** — it defines where the action’s response data will be stored
    - **Destination variable name:** `WHSOPMNG_DEST`
 
-   <img width="940" height="364" alt="image" src="https://github.com/user-attachments/assets/40be0237-f80a-45e7-be6a-d2924e982e19" />
+   <img width="1693" height="836" alt="image" src="https://github.com/user-attachments/assets/8bd2a1e3-4bd3-4e54-a30e-c1ab0f75b649" />
+
 
    > 💡 **Good to know:**  
    > In this exercise, the **Destination Variable** `WHSOPMNG_DEST` connects the Joule Skill to the backend API destination on your SAP BTP account and captures the results of the `optimizeWorkload` Action.
 
-6. Once you’ve linked the action and destination variable, **click Save** to complete the setup.
+6. Once you’ve linked the action and destination variable, **click Save** to complete the setup
+   <img width="1691" height="839" alt="image" src="https://github.com/user-attachments/assets/d244ad96-8a3a-4827-b562-830c4523a400" />
+
 
 ---
 
