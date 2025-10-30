@@ -58,7 +58,8 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 3.1 Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
 
-   <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/8f6aa26c-46a3-4cd9-a87d-31dcb0ae9766" />
+   <img width="1691" height="551" alt="image" src="https://github.com/user-attachments/assets/96588b22-b8b0-490a-98da-7b6b7fd9040a" />
+
 
 3.2 **Add the following Inputs with Descriptions.**
 
