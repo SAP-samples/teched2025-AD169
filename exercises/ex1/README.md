@@ -48,7 +48,17 @@ Here we see the categories 'Connectivity' and the 'Test Input Values'
 <img width="1701" height="899" alt="image" src="https://github.com/user-attachments/assets/fae99491-9c52-4cbb-a6d6-3d34cf9ee147" />
 
 
-####  Step 2.1: Provide Values for Input Parameters
+####  Step 2.1: Choose the Destination 
+
+On the **righ-top panel** (N2 on the screenshot), select the **destination** associated with the action project:
+ | Destination  |
+----------|
+| `zewm_autonomous-warehouse-agent-srv-api` |
+
+<img width="1695" height="892" alt="image" src="https://github.com/user-attachments/assets/de175383-c27b-41c2-8489-8255d80a818e" />
+
+
+####  Step 2.2: Provide Values for Input Parameters
 
 Provide the following values for **input parameters** (N1 on the screenshot):
  
@@ -63,12 +73,6 @@ Provide the following values for **input parameters** (N1 on the screenshot):
 <img width="1698" height="854" alt="image" src="https://github.com/user-attachments/assets/f8d35279-075d-4017-9e24-455ec3b1a3c3" />
 
 
-####  Step 2.2: Choose the Destination 
-
-On the **righ-top panel** (N2 on the screenshot), select the **destination** associated with the action project:
- | Destination  |
-----------|
-| `zewm_autonomous-warehouse-agent-srv-api` |
 
 ###  Step 3:  Get Succesful API Response 
 
