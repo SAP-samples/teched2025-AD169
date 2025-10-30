@@ -5,7 +5,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 ---
 
-### 1. Connect the SAP Build Action
+### Step 1: Connect the SAP Build Action
 
 1. In the **Skill Builder**, click on the **+** button to add a new action.  
 
@@ -48,7 +48,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 ---
 
-### 2. Map Joule Skill Inputs to Action Parameters
+### Step 2: Map Joule Skill Inputs to Action Parameters
 
 Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.1/README.md)) to the corresponding **Action Inputs** from the SAP Build Action.
 
