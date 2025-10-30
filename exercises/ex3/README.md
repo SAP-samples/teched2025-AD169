@@ -45,8 +45,8 @@ Follow these steps:
 
 A unique name is required since there are many workshop attendees, and you need to be able to easily locate your own project.
 
-Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>``` 
-<br> Click on ‘Save’ button to save your personal version .
+1. Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>``` 
+2. <br> Click on ‘Save’ button to save your personal version .
 
 ### Step 3: Review the Project
 
