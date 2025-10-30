@@ -48,11 +48,13 @@ Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it
 
 Click the 'Test' Tab
 
-<img width="1701" height="901" alt="image" src="https://github.com/user-attachments/assets/1e38b025-a884-426f-bcb2-f7d9107140b9" />
+<img width="1700" height="838" alt="image" src="https://github.com/user-attachments/assets/42f0917f-8dba-43d8-9281-5a3f41e66f97" />
+
 
 Here we see the categories 'Connectivity' and the 'Test Input Values'
 
-<img width="1701" height="899" alt="image" src="https://github.com/user-attachments/assets/fae99491-9c52-4cbb-a6d6-3d34cf9ee147" />
+<img width="1686" height="841" alt="image" src="https://github.com/user-attachments/assets/5b956f9a-90b0-4c1f-9cf6-57e9760d2b06" />
+
 
 
 
