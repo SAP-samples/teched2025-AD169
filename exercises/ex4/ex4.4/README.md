@@ -35,7 +35,7 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
 ### 2. Map the Output Variable
 
 5. Click on the **End** button again.  
-6. In the mapping panel, **map the result** from your previous **Action Call** step to the **Output Variable** you just created.  
+6. In the mapping panel, click on the output field to **Select Item and map the result** from your previous **Action Call** step to the **Output Variable** you just created.  
 
    <img width="939" height="410" alt="image" src="https://github.com/user-attachments/assets/9a92b8ea-4fd5-41a2-aab0-15deabb4d808" />
 
