@@ -18,18 +18,18 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 ---
 
-### 1. Create a New Joule Skill
+### Step 1: Create a New Joule Skill
 
-1. **Click** on the **Create** button and choose **Joule Skill**.  
+1.1 **Click** on the **Create** button and choose **Joule Skill**.  
 
    <img width="1683" height="496" alt="image" src="https://github.com/user-attachments/assets/d9d7b648-1a84-4250-bf3a-8172bebe4930" />
 
 
-2. **Enter the Name and Description:**  
+1.2 **Enter the Name and Description:**  
    - **Name:** `SimulateWorkforceOptimization`  
    - **Description:** `Simulate Picking Workforce Optimization`
 
-3. **Click** on **Create** to confirm.  
+1.3 **Click** on **Create** to confirm.  
 
    <img width="648" height="365" alt="image" src="https://github.com/user-attachments/assets/90e30b30-a887-4a07-a049-62b711e27291" />
 
@@ -41,26 +41,26 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 ---
 
-### 2. Define Skill General Parameters
+### Step 2: Define Skill General Parameters
 
-1. Once the Joule Skill is created, **click on it** to open the **Skill Builder**.
+2.1 Once the Joule Skill is created, **click on it** to open the **Skill Builder**.
 
-2. **Click** on the **`<<`** button on the right side of the screen to open the skill’s General Parameters
+2.2 **Click** on the **`<<`** button on the right side of the screen to open the skill’s General Parameters
    <img width="1690" height="833" alt="image" src="https://github.com/user-attachments/assets/a4fedbc1-b90a-4abd-90ff-64cd7b86f210" />
 
 
-3. **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent
+2.3 **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent
    
    <img width="1691" height="836" alt="image" src="https://github.com/user-attachments/assets/3e58cb2d-c6c7-438a-8d08-3a9cd0715c8e" />
 
 
-### 3. Define Skill Inputs and Outputs
+### Step 3: Define Skill Inputs and Outputs
 
-1. Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
+3.1 Go to the **Parameters** tab → expand **Skill Inputs** → **click Configure** to define the skill inputs.  
 
    <img width="940" height="388" alt="image" src="https://github.com/user-attachments/assets/8f6aa26c-46a3-4cd9-a87d-31dcb0ae9766" />
 
-2. **Add the following Inputs with Descriptions.**
+3.2 **Add the following Inputs with Descriptions.**
 
    These inputs correspond directly to the parameters you tested earlier in [Exercise 1 – Test the Action Project](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex1/README.md).
    The Joule Skill will later invoke the same **SAP Build Action** (`WarehouseWorkloadDetermination`) that you validated previously.
@@ -85,7 +85,7 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 <img width="1915" height="782" alt="image" src="https://github.com/user-attachments/assets/e686f489-c999-4869-9bb9-907980a25d2f" />
 
-3. Once all inputs are added, **click Save** to confirm the configuration.
+3.3 Once all inputs are added, **click Save** to confirm the configuration.
 
 ---
 
