@@ -91,7 +91,7 @@ You would design a **Send Message** when:
 
    <img width="939" height="522" alt="image" src="https://github.com/user-attachments/assets/4b3f86a9-cd84-4926-a175-00626e4d7b22" />
 
-13. Click the **Back** button in the top-left corner to return to the Skill Builder.
+
 
 ---
 
