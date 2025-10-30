@@ -31,13 +31,13 @@ Testing validates that:
 
 ###  Step 1: Open Action Project
 
-1. In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
+1. In the left panel of the lobby area, expand **Connectors** and click on **Actions**
 
 
 <img width="1700" height="833" alt="image" src="https://github.com/user-attachments/assets/cb67767f-20a2-4c76-9b0b-d99b1c3eff10" />
 
 
-2. Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
+2. Search for the action project, **WarehouseWorkloadDetermination**. Click on it to open
 
 <img width="1689" height="799" alt="image" src="https://github.com/user-attachments/assets/4a1c6092-771f-4fac-8857-17674d28b846" />
 
@@ -46,12 +46,12 @@ Testing validates that:
 
 ###  Step 2:  Navigate to Action's Test section
 
-1. Click the `Test` Tab
+1. Click the **Test** Tab
 
 <img width="1700" height="838" alt="image" src="https://github.com/user-attachments/assets/42f0917f-8dba-43d8-9281-5a3f41e66f97" />
 
 
-Here we see the categories 'Connectivity' and the 'Test Input Values'
+Here we see the categories **Connectivity** and the **Test Input Values**
 
 <img width="1686" height="841" alt="image" src="https://github.com/user-attachments/assets/5b956f9a-90b0-4c1f-9cf6-57e9760d2b06" />
 
