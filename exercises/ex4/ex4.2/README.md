@@ -28,7 +28,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
    > This step connects your **Joule Skill** with the **SAP Build Action** that encapsulates the business logic you validated earlier.  
    > By linking them, you enable Joule to execute the same backend process through natural language — no manual API calls needed.
 
-4. Once the action call is added, **click on it** to open the right-hand configuration panel for **Input** and **Output Parameters**.  
+4. Once the action call is added, **click on it** to open the right-hand configuration panel for **Input** and **Output Parameters** 
 
    <img width="1696" height="836" alt="image" src="https://github.com/user-attachments/assets/2b716747-b432-4dd0-9af2-a4d8015deafe" />
 
