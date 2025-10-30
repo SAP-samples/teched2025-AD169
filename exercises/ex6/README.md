@@ -35,7 +35,7 @@ In the **Test Setup** window, enter the following details:
 | **AICore** | `document-grounding` |
 | **WHSOPMNG_DEST** | `zewm-autonomous-warehouse-agent-srv-api` |
 
-Click **Test** to start your session.
+Click **Continue** to start your testing session.
 
 ---
 
