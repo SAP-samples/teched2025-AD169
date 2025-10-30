@@ -52,8 +52,12 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.1/README.md)) to the corresponding **Action Inputs** from the SAP Build Action.
 
-1. **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs.  
-   Select the field `planning_horizon_from`.  
+1. **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs
+   <img width="1696" height="837" alt="image" src="https://github.com/user-attachments/assets/792272cc-52be-42fa-987a-9fd581d0a98c" />
+  
+   Select the field `planning_horizon_from`
+   <img width="1703" height="834" alt="image" src="https://github.com/user-attachments/assets/67274611-4cb8-4240-b64a-2cea7525519a" />
+ 
 
    Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
 
@@ -61,21 +65,21 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    <img width="940" height="368" alt="image" src="https://github.com/user-attachments/assets/22cbc3bb-e60d-4d51-97d3-7262078e5482" />
 
-2. In the **Formula Editor**, type `PlanningFrom`.  
+3. In the **Formula Editor**, type `PlanningFrom`.  
    Then click **Apply**.  
 
    <img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/01426f05-ccfc-462a-8a9e-674f658b10fe" />  
 
    <img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/015e3fcd-d755-40a8-933d-6fc89a1ab869" />
 
-3. Similarly, map the following fields:
+4. Similarly, map the following fields:
 
    | **Action Inputs** | **Skill Content / Skill Input Variables** |
    |--------------------|-------------------------------------------|
    | `planning_horizon_to` | `PlanningTo` |
    | `planning_start` | `PlanningStart` |
 
-4. Next, click on the field `is_simulation` and select **Apply a formula**.  
+5. Next, click on the field `is_simulation` and select **Apply a formula**.  
    In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**.  
    Then click **Insert**.  
 
@@ -85,11 +89,11 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    <img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/bfd812f5-6a73-4bea-b1ae-bd3e1759a5d2" />
 
-5. Map the variable `Warehouse` with the skill input `Warehouse`.  
+6. Map the variable `Warehouse` with the skill input `Warehouse`.  
 
    <img width="939" height="418" alt="image" src="https://github.com/user-attachments/assets/55821163-09bd-434b-b91f-c5f35842bdc9" />
 
-6. Once all mappings are completed, click **Save** to store the configuration.
+7. Once all mappings are completed, click **Save** to store the configuration.
 
 ---
 
