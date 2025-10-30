@@ -61,9 +61,9 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
 
-   <img width="939" height="465" alt="image" src="https://github.com/user-attachments/assets/4fdea1c3-f6b7-437b-8ebe-25a31a107552" />
+   <img width="1698" height="835" alt="image" src="https://github.com/user-attachments/assets/b3d7502b-3308-48d2-b6fa-bf9903993c79" />
 
-   <img width="940" height="368" alt="image" src="https://github.com/user-attachments/assets/22cbc3bb-e60d-4d51-97d3-7262078e5482" />
+
 
 3. In the **Formula Editor**, type `PlanningFrom`.  
    Then click **Apply**.  
