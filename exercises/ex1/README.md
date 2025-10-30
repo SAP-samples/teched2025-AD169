@@ -60,7 +60,7 @@ Here we see the categories **Connectivity** and the **Test Input Values**
 
 ###  Step 3 : Set required Destination to test the connection to the Warehouse Management application
 
-Select the **destination** associated with the action project:
+Select the **destination** in the drop down menu associated with the action project:
  | Destination  |
 ----------|
 | `zewm_autonomous-warehouse-agent-srv-api` |
