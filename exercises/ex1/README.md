@@ -33,12 +33,14 @@ Testing validates that:
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
-<img width="1704" height="899" alt="image" src="https://github.com/user-attachments/assets/c0fa04da-4919-4d11-822d-74c2154a0547" />
+
+<img width="1700" height="833" alt="image" src="https://github.com/user-attachments/assets/cb67767f-20a2-4c76-9b0b-d99b1c3eff10" />
 
 
 Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
-<img width="1701" height="901" alt="image" src="https://github.com/user-attachments/assets/94df3761-7ee5-49f9-8293-9da314cdaac2" />
+<img width="1689" height="799" alt="image" src="https://github.com/user-attachments/assets/4a1c6092-771f-4fac-8857-17674d28b846" />
+
 
 
 
