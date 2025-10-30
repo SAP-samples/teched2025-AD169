@@ -12,7 +12,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
    <img width="1689" height="472" alt="image" src="https://github.com/user-attachments/assets/1cc46760-2210-4827-9c2f-64492ebc02b8" />
 
 
-2. From the available options, select **Call Action**.  
+2. From the available options, select **Call Action**
 
    <img width="1694" height="774" alt="image" src="https://github.com/user-attachments/assets/9e985e2b-8d5f-4797-b997-4f2119cdad00" />
 
