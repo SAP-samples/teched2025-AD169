@@ -59,7 +59,7 @@ You would design a **Send Message** when:
 7. In the **Title** field, click **`<>`** and map  
    `Joule.Action.Result → value → Resource`.  
 
-   <img width="940" height="512" alt="image" src="https://github.com/user-attachments/assets/c8ba3f90-5790-4bef-9ff3-c90f5622de81" />
+   <img width="1038" height="703" alt="image" src="https://github.com/user-attachments/assets/005e1841-f953-45d2-af41-7d63fed57b7d" />
 
 8. In the **Text** field, click **`<>`** and map  
    `Joule.Action.Result → value → status_text`.  
