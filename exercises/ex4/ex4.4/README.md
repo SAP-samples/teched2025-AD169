@@ -18,13 +18,13 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
 1. In the **Skill Builder**, click on the **End** button.
 2. Click on **Define Skill outputs**.
 3. Then click on **Parameters** tab (right panel), and in the **Outputs Section** click on **Configure**.  
-4. Click **Add Output** and provide the following details:
+4. Click **Add Output** and **PASTE** these values in each field :
 
    | Field | Value |
    |--------|--------|
    | **Name** | `WorkloadOptimizationResults` |
    | **Description** | `Workload Optimization Results` |
-   | **Type** | copy/paste this value `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema` |
+   | **Type** | `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema`|
 
 5. Click **Apply** to confirm.  
 
