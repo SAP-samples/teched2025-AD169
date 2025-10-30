@@ -18,19 +18,21 @@ This step confirms that your **Agentic Warehouse Operations** scenario functions
 ---
 
 ### 1. Launch the Test Session
-1. Open your **Warehouse Workforce Optimization Agent** in **Joule Studio**.  
-2. Click on the **Test** button in the upper-right corner of the Agent Builder.  
-   ![Test Agent Button](https://github.com/user-attachments/assets/7c153054-35cf-40d0-b88b-d272485faa2f)
+
+Click on the **Test** button in the upper-right corner in Joule Studio.  
+  <img width="1905" height="675" alt="image" src="https://github.com/user-attachments/assets/cda19b8b-4715-4444-9c07-e6adc99e2e88" />
+
 
 ---
 
 ### 2. Configure Test Parameters
+
 In the **Test Setup** window, enter the following details:
 
 | Parameter | Value |
 |------------|--------|
 | **Environment** | Select your environment associated with your user ID |
-| **AICore** | `included-ai-core` |
+| **AICore** | `document-grounding` |
 | **WHSOPMNG_DEST** | `zewm-autonomous-warehouse-agent-srv-api` |
 
 Click **Test** to start your session.
@@ -41,7 +43,7 @@ Click **Test** to start your session.
 
 #### 🧠 Prompt 1 – Run a Simulation
 **Prompt:**
->  Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 7AM as planning start? In case critical areas exist, only simulate optimal resource allocation.
+```Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 7AM as planning start? In case critical areas exist, only simulate optimal resource allocation.```
 
 
 **Expected Result:**  
@@ -55,7 +57,7 @@ Rebalanced resources should be displayed.
 #### 🔍 Prompt 2 – Analyze Workloads Only
 **Prompt:**
 
->  Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 6AM as planning start?
+```Could you please assist me in verifying the critical activity areas in terms of workloads for warehouse TSEB for today using 6AM as planning start?```
 
 
 **Expected Result:**  
