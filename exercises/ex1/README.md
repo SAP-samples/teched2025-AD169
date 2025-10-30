@@ -29,7 +29,7 @@ Testing validates that:
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
-![Alt text](exercises/ex1/images/01_01_0001.png)
+<img alt="01_01_0001" src="https://raw.githubusercontent.com/SAP-samples/teched2025-AD169/0e6bfb18ef762c18d72c341efb0540ccc28a1145/exercises/ex1/images/01_01_0001.png" />
 
 Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
