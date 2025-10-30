@@ -34,7 +34,8 @@ In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Act
 
 Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
-<br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
+<img width="1701" height="901" alt="image" src="https://github.com/user-attachments/assets/94df3761-7ee5-49f9-8293-9da314cdaac2" />
+
 
 ###  Step 2:  Set Required Values for Testing
 
