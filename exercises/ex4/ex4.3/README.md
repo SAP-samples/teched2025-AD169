@@ -33,11 +33,14 @@ You would design a **Send Message** when:
 
 3. Click on **Open Message Editor**.  
 
-   <img width="940" height="788" alt="image" src="https://github.com/user-attachments/assets/a260c5e9-5868-4e7d-8a37-2031d540f5e1" />
+   <img width="1611" height="562" alt="image" src="https://github.com/user-attachments/assets/72ab61e0-9ffc-4c2c-825d-fd930f58aeac" />
+
 
 ---
 
 ### 2. Configure the Message
+
+<img width="1582" height="849" alt="image" src="https://github.com/user-attachments/assets/575e9ba4-d144-4665-a2b2-9d882ecb3fe4" />
 
 4. In the **Edit User Interaction** pop-up, set the following:
    - **Message Type:** `List`
