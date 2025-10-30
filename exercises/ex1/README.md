@@ -45,7 +45,7 @@ Provide the following values for **input parameters** (N1 on the screenshot):
  
 | **Parameter** | **Value** | **Description** |
 |----------------|------------|-----------------|
-| **warehouse** | ```TSEB``` | Identifies the warehouse where the workload simulation takes place. In this case, `TSEB` represents the warehouse code. |
+| **warehouse** | `TSEB` | Identifies the warehouse where the workload simulation takes place. In this case, `TSEB` represents the warehouse code. |
 | **is_simulation** | `true` | Indicates whether the process should run in simulation mode (`true`) or in execution mode (`false`). When set to `true`, no actual assignments or updates are made in the backend — only simulated results are returned. |
 | **planning_start** | `2025-10-15T00:00:00Z` | Defines the starting date and time of the planning period for workload and resource distribution analysis. |
 | **planning_horizon_to** | `2025-10-16T00:00:00Z` | Specifies the end date and time of the planning horizon — the point until which workload data and assignments are considered. |
