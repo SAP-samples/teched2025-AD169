@@ -47,7 +47,8 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 5. **Click** on the **`<<`** button on the right side of the screen to open the skill’s General Parameters.
 
-<img width="940" height="291" alt="image" src="https://github.com/user-attachments/assets/c63337c3-a533-4700-b1d0-a8db7c061a1e" />
+<img width="1690" height="833" alt="image" src="https://github.com/user-attachments/assets/a4fedbc1-b90a-4abd-90ff-64cd7b86f210" />
+
 
 6. **Disable** the **"Allow skill to be started directly by a user"** Toggle. This will restrict this skill to only be called as a tool from an Agent.
 
