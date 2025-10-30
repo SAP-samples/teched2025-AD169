@@ -32,7 +32,7 @@ Click on the **Create** button at the top right corner.
 <img width="1893" height="407" alt="image" src="https://github.com/user-attachments/assets/5d2bff21-a5ae-4693-8757-552d53f98d52" />
 
 
-Provide the following inputs, replacing `<UserID>` with your assigned ID:
+3. Provide the following inputs, replacing `<UserID>` with your assigned ID:
 
 | **Field** | **Value** |
 |------------|-----------|
@@ -54,7 +54,7 @@ Provide the following inputs, replacing `<UserID>` with your assigned ID:
 3. Once released, navigate to the **Released Version** of your project and click **Deploy**.  
    ![Deploy Button](https://github.com/user-attachments/assets/aed6cf09-2c6f-4649-9bdf-c847ee24beaf)
 
-4. In the deployment dialog, select the **Shared Environment** created earlier in your tenant and click **Deploy**.  
+4. In the deployment dialog, select your **Shared Environment** created above and click **Deploy**.  
    ![Select Environment](https://github.com/user-attachments/assets/e1ad4c23-a802-4fcc-b877-6699bdde994b)
 
 5. Choose the destinations as follows:
