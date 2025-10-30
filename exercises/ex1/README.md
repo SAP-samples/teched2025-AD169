@@ -29,6 +29,8 @@ Testing validates that:
 
 In the left panel of the lobby area, expand ‘Connectors’ and click on ‘Actions’
 
+![Alt text](exercises/ex1/images/01_01_0001.png)
+
 Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it to open
 
 <br> <img width="940" height="374" alt="image" src="https://github.com/user-attachments/assets/ab1723c9-cc76-4cd0-8927-30a36ce27b3c" />
