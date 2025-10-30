@@ -9,11 +9,13 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 1. In the **Skill Builder**, click on the **+** button to add a new action.  
 
-   <img width="940" height="248" alt="image" src="https://github.com/user-attachments/assets/b56990ed-b7d8-4430-a140-29555acc73ad" />
+   <img width="1689" height="472" alt="image" src="https://github.com/user-attachments/assets/1cc46760-2210-4827-9c2f-64492ebc02b8" />
+
 
 2. From the available options, select **Call Action**.  
 
-   <img width="940" height="376" alt="image" src="https://github.com/user-attachments/assets/ee7f5db5-0687-4c98-84a2-1d486c875d1b" />
+   <img width="1694" height="774" alt="image" src="https://github.com/user-attachments/assets/9e985e2b-8d5f-4797-b997-4f2119cdad00" />
+
 
 3. From the list of actions displayed, choose the previously tested **SAP Build Action**:  
    - **Action name:** `Invokes action optimizeWorkload`  
