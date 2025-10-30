@@ -58,12 +58,12 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 
 #### 🧠 Expertise
 
-`> You are responsible for analyzing critical activity areas in terms of workload and, if needed, simulating or optimizing workforce allocation.`
+``` You are responsible for analyzing critical activity areas in terms of workload and, if needed, simulating or optimizing workforce allocation.```
 
 ---
 
 #### 🧭 Instructions
-
+```
 > You should always start by analyzing the critical activity areas using the skill **CheckingPickingWorkloadSituation**.  
 > Based on the user’s request, determine whether to perform a **simulation** or a **real workforce optimization**.  
 > Before performing any action, ensure that all required parameters — **warehouse**, **planning from**, **planning to**, and **planning start datetime** — are provided by the user.  
@@ -91,11 +91,12 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 > - Summarizes rebalanced and redundant resources.  
 > - If no results are returned, stop further actions.  
 > - Re-check the workload situation and finalize without additional actions.
-
+```
 
 
 #### 💬 Additional Context
 
+```
 > **Things to Note**  
 >  
 > - The date/time parameters **PlanningFrom**, **PlanningTo**, and **PlanningStart** must be converted to **UTC**.  
@@ -126,7 +127,8 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 In **Advanced Configuration**, check the box for **Post-processing**.
 > 💡 **Good to Know:**  
 > The Advanced Configuration allows you to add **Pre-processing Steps** and **Post-processing Steps**. This forces the agent to decompose the steps to improve planning, reasoning and optimizes the response the agent will output.
->  
+>
+```  
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/bff5c61c-eaed-4a4c-a68f-f13e1d3a00a6" />
 
 ---
