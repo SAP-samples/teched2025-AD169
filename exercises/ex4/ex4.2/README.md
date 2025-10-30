@@ -21,7 +21,8 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
    - **Action name:** `Invokes action optimizeWorkload`  
    - **Project name:** `WarehouseWorkloadDetermination`
 
-   <img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/d636dbf1-a4e3-4513-91e8-8ed9ef3207ee" />
+   <img width="658" height="533" alt="image" src="https://github.com/user-attachments/assets/72a3b164-d88d-452b-95c5-c94e25d0e13d" />
+
 
    > 💡 **Good to know:**  
    > This step connects your **Joule Skill** with the **SAP Build Action** that encapsulates the business logic you validated earlier.  
