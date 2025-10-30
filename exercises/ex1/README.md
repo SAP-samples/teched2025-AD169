@@ -18,12 +18,16 @@ which reuses the same already created Action project to simulate and optimize wo
 
 Now that we understand the Action project’s role in the architecture, let’s test it to confirm that the backend connection and logic work as expected.
 
+
+
 ## 🧩  Test Action Project
 
 Testing validates that:
 - The backend destination (`zewm_autonomous-warehouse-agent-srv-api`) is correctly configured and reachable.  
 - The action correctly receives and processes input parameters.  
 - The output data and logic behave as designed (for example, `is_simulation = true` triggers a simulation scenario).  
+
+
 
 ###  Step 1: Open Action Project
 
@@ -37,6 +41,7 @@ Search for the action project, ‘WarehouseWorkloadDetermination’. Click on it
 <img width="1701" height="901" alt="image" src="https://github.com/user-attachments/assets/94df3761-7ee5-49f9-8293-9da314cdaac2" />
 
 
+
 ###  Step 2:  Set Required Values for Testing
 
 Click the 'Test' Tab
@@ -48,6 +53,7 @@ Here we see the categories 'Connectivity' and the 'Test Input Values'
 <img width="1701" height="899" alt="image" src="https://github.com/user-attachments/assets/fae99491-9c52-4cbb-a6d6-3d34cf9ee147" />
 
 
+
 ####  Step 2.1: Choose the Destination 
 
 On the **righ-top panel** (N2 on the screenshot), select the **destination** associated with the action project:
@@ -56,6 +62,7 @@ On the **righ-top panel** (N2 on the screenshot), select the **destination** ass
 | `zewm_autonomous-warehouse-agent-srv-api` |
 
 <img width="1695" height="892" alt="image" src="https://github.com/user-attachments/assets/de175383-c27b-41c2-8489-8255d80a818e" />
+
 
 
 ####  Step 2.2: Provide Values for Input Parameters
