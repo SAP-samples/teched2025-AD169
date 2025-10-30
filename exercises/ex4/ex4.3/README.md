@@ -43,9 +43,9 @@ You would design a **Send Message** when:
 <img width="1582" height="849" alt="image" src="https://github.com/user-attachments/assets/575e9ba4-d144-4665-a2b2-9d882ecb3fe4" />
 
 4. In the **Edit User Interaction** pop-up, set the following:
-   - **Message Type:** `List`
-   - **Title:** `Simulated Optimization Results`
-   - **Text:** `Workforce Optimization Results`
+   - Select **Message Type:** `List`
+   - Write **Title:** `Simulated Optimization Results`
+   - Write **Text:** `Workforce Optimization Results`
 
 5. In the **List Item** section, click **Edit List Item**.  
 
@@ -71,12 +71,13 @@ You would design a **Send Message** when:
 
    <img width="940" height="462" alt="image" src="https://github.com/user-attachments/assets/4dd20600-2640-4f1b-b218-735498aea174" />
 
+10. In the **Detail View > Section Details**, set **Title:** `Optimization Details`
 ---
 
 ### 3. Add Attributes
 
 10. In the **Attributes** section, click **Add Attribute** and create the following:  
-   - **Title:** `Optimization Details`
+ 
 
    | Type | Label | Value (click on the `<>` button) |
    |------|--------|----------------------------------|
