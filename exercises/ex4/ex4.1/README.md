@@ -22,7 +22,8 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 1. **Click** on the **Create** button and choose **Joule Skill**.  
 
-   <img width="939" height="256" alt="image" src="https://github.com/user-attachments/assets/cbe1290d-5927-46fc-bde3-ad9837c5eb20" />
+   <img width="1683" height="496" alt="image" src="https://github.com/user-attachments/assets/d9d7b648-1a84-4250-bf3a-8172bebe4930" />
+
 
 2. **Enter the Name and Description:**  
    - **Name:** `SimulateWorkforceOptimization`  
