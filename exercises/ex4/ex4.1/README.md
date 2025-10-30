@@ -31,7 +31,8 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
 
 3. **Click** on **Create** to confirm.  
 
-   <img width="939" height="346" alt="image" src="https://github.com/user-attachments/assets/98a9cbea-a8c7-4f93-bf20-5abf982de7b0" />
+   <img width="648" height="365" alt="image" src="https://github.com/user-attachments/assets/90e30b30-a887-4a07-a049-62b711e27291" />
+
 
 > 💡 **Good to know:**  
    > Joule and Joule Agents rely on the **Skill Description** to determine **when and how to use** a specific skill.  
