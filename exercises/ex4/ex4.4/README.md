@@ -15,17 +15,18 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
 
 ### 1. Define the Output Parameter
 
-1. In the **Skill Builder**, click on the **End** button.  
-2. In the **Parameters** tab (right panel), configure the **Skill Outputs** section.  
-3. Click **Add Output** and provide the following details:
+1. In the **Skill Builder**, click on the **End** button.
+2. Click on **Define Skill outputs**.
+3. Then click on **Parameters** tab (right panel), and in the **Outputs Section** click on **Configure**.  
+4. Click **Add Output** and provide the following details:
 
    | Field | Value |
    |--------|--------|
    | **Name** | `WorkloadOptimizationResults` |
    | **Description** | `Workload Optimization Results` |
-   | **Type** | `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema` |
+   | **Type** | copy/paste this value `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema` |
 
-4. Click **Apply** to confirm.  
+5. Click **Apply** to confirm.  
 
    <img width="940" height="465" alt="image" src="https://github.com/user-attachments/assets/0cebad6a-d14c-457a-837c-d974d6e0752a" />
 
