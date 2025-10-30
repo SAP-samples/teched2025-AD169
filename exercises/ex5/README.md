@@ -155,13 +155,14 @@ Communication Style :
    |--------|--------|
    | Write **Tool Name** | `Warehouse Operations Management Document` |
    | Write **Description** | `Guidelines for Warehouse Operations Management App` |
-   | Select **Destination Variable** | `Document-grounding` |
+   | Select **Destination Variable** | `AICore` |
    | Write **Resource Group ID** | `MFSResourceGroupDoc` |
    | Write **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
 
 3. Click **Add**.  
 
-   <img width="940" height="436" alt="image" src="https://github.com/user-attachments/assets/762e9804-604d-49e3-b0fb-f253ec37d136" />
+   <img width="828" height="549" alt="image" src="https://github.com/user-attachments/assets/492ff6af-f618-4d4c-ab10-1a00e8e5b159" />
+
 
 ---
 
