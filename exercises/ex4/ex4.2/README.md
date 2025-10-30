@@ -68,9 +68,8 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 3. In the **Formula Editor**, type `PlanningFrom`.  
    Then click **Apply**.  
 
-   <img width="940" height="386" alt="image" src="https://github.com/user-attachments/assets/01426f05-ccfc-462a-8a9e-674f658b10fe" />  
+<img width="1691" height="838" alt="image" src="https://github.com/user-attachments/assets/d24431fe-34d1-4274-a681-744d01cf7b3a" />
 
-   <img width="940" height="541" alt="image" src="https://github.com/user-attachments/assets/015e3fcd-d755-40a8-933d-6fc89a1ab869" />
 
 4. Similarly, map the following fields:
 
