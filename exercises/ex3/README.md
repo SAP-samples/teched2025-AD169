@@ -46,7 +46,9 @@ Follow these steps:
 
 A unique name is required since there are many workshop attendees, and you need to be able to easily locate your own project.
 
-1. Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>``` 
+1. Provide the name of the new project as: ```WarehouseOperationsManagement_<userid>```
+   <img width="1576" height="660" alt="image" src="https://github.com/user-attachments/assets/51348f6d-8974-45a2-9906-3e128b1b660d" />
+
 2. Click on ‘Save’ button to save your personal version .
 
 ### Step 3: Review the Project
