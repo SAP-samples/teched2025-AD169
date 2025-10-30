@@ -20,18 +20,39 @@ Releasing and deploying your project to a **Shared Environment** allows:
 
 ---
 
-### 7.1 – Release and Deploy the Project
+### 7.1 – Create a Shared Environment
 
-1. Open your **Project Overview** page in Joule Studio and click **Release**.  
+1. Navigate to Control Tower
+
+Open the **SAP Build Lobby**, go to the **Control Tower** and open the **Environments** section.  
+
+---
+
+2. Create a New Environment
+Click on the **Create** button at the top right corner and provide the following inputs, replacing `<UserID>` with your assigned ID:
+
+| **Field** | **Value** |
+|------------|-----------|
+| **Environment Name** | `JouleAgent_<UserID>` |
+| **Identifier** | Auto Populated |
+| **Color** | Any color of your choice from the dropdown |
+| **Description** | Environment for Joule Agent - `<UserID>` |
+
+---
+### 7.2 Release and Deploy the Project
+
+1. Open your WarehouseOperationManagement project again.
+   
+2. In your **Project Overview** page in Joule Studio and click **Release**.  
    ![Release Button](https://github.com/user-attachments/assets/c230c7a4-f7d5-4782-a01c-f5a78efd1a86)
 
-2. Once released, navigate to the **Released Version** of your project and click **Deploy**.  
+3. Once released, navigate to the **Released Version** of your project and click **Deploy**.  
    ![Deploy Button](https://github.com/user-attachments/assets/aed6cf09-2c6f-4649-9bdf-c847ee24beaf)
 
-3. In the deployment dialog, select the **Shared Environment** created earlier in your tenant and click **Deploy**.  
+4. In the deployment dialog, select the **Shared Environment** created earlier in your tenant and click **Deploy**.  
    ![Select Environment](https://github.com/user-attachments/assets/e1ad4c23-a802-4fcc-b877-6699bdde994b)
 
-4. Choose the destinations as follows:
+5. Choose the destinations as follows:
 
    | Destination | Value |
    |--------------|--------|
@@ -41,13 +62,13 @@ Releasing and deploying your project to a **Shared Environment** allows:
    <img width="671" height="585" alt="image" src="https://github.com/user-attachments/assets/3aefe330-cf75-455c-bed1-892ef593c975" />
 
 
-5. Click **Deploy**.  
+6. Click **Deploy**.  
    The project will begin deployment and show as **Deployed** once complete.  
    ![Deployed Status](https://github.com/user-attachments/assets/dfa6a698-7797-4221-af4f-2a701416d2af)
 
 ---
 
-### 7.2 – Test the Deployed Project in the Shared Environment
+### 7.3 – Test the Deployed Project in the Shared Environment
 
 1. Navigate to **Control Tower → Environments**.  
    ![Control Tower](https://github.com/user-attachments/assets/739717df-e7c6-4690-a3f6-dead30ceef21)
