@@ -63,7 +63,8 @@ You should now see two **pre-created Joule Skills** that are already part of thi
 
 <br>
 
-<img width="1689" height="775" alt="image" src="https://github.com/user-attachments/assets/330f93b7-b950-4cc5-9e93-43e2fff3efaf" />
+<img width="1689" height="775" alt="image" src="https://github.com/user-attachments/assets/95b4b0e0-ab2f-4170-9d49-ce91d99d7d7c" />
+
 
 
 ## 🌟 What's Next
