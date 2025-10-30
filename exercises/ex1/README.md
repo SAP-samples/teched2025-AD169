@@ -77,7 +77,9 @@ Provide the following values for **input parameters** (N1 on the screenshot):
 ###  Step 3:  Get Succesful API Response 
 
 To the **right** of your screen, select the **Test Button**
-<br><img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/fefe3469-cd5d-4923-b5eb-6c274a9afcd4" />
+
+<img width="1695" height="895" alt="image" src="https://github.com/user-attachments/assets/12b11c3b-db14-445e-9623-30e96bfc0294" />
+
 <br> <br> Result: Response should be ‘200 OK’
 
 ## 🌟 What's Next
