@@ -62,7 +62,7 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 
 ---
 
-#### 🧭 Instructions
+#### 🧭 Set the **Instructions** Field
 ```
 You should always start by analyzing the critical activity areas using the skill CheckingPickingWorkloadSituation.
 Based on the user’s request, determine whether to perform a simulation or a real workforce optimization.
@@ -93,7 +93,7 @@ Available Skills:
 ```
 
 
-#### 💬 Additional Context
+#### 💬 Set the **Additional Context** Field
 
 ```
 Things to Note :
@@ -122,7 +122,8 @@ Communication Style :
 | **Advanced Model** | `GPT-4o` |
 | **Backup LLM** | Toggle **Off** |
 
-In **Advanced Configuration**, check the box for **Post-processing**.
+### 4. In **Advanced Configuration**, check the box for **Post-processing**.
+
 > 💡 **Good to Know:**  
 > The Advanced Configuration allows you to add **Pre-processing Steps** and **Post-processing Steps**. This forces the agent to decompose the steps to improve planning, reasoning and optimizes the response the agent will output.
 >
@@ -131,11 +132,11 @@ In **Advanced Configuration**, check the box for **Post-processing**.
 
 ---
 
-### 4. Add Joule Skills as Tools
+### 5. Add Joule Skills as Tools
 
 1. In the **Tools** section, click **Add Tool → Joule Skill**.  
 2. A pop-up will display all available Joule Skills in your project.  
-3. Select and add the following skills one by one:
+3. Mutli-Select (ctrl or cmd + click) the following skills to add them as tools :
    - `CheckingPickingWorkloadSituation`  
    - `SimulateWorkforceOptimization`  
    - `ExecuteWorkforceOptimization`
@@ -152,11 +153,11 @@ In **Advanced Configuration**, check the box for **Post-processing**.
 
    | Field | Value |
    |--------|--------|
-   | **Tool Name** | `Warehouse Operations Management Document` |
-   | **Description** | `Guidelines for Warehouse Operations Management App` |
-   | **Destination Variable** | `AICore` |
-   | **Resource Group ID** | `MFSResourceGroup` |
-   | **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
+   | Write **Tool Name** | `Warehouse Operations Management Document` |
+   | Write **Description** | `Guidelines for Warehouse Operations Management App` |
+   | Select **Destination Variable** | `Document-grounding` |
+   | Write **Resource Group ID** | `MFSResourceGroupDoc` |
+   | Write **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
 
 3. Click **Add**.  
 
