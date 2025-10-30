@@ -81,10 +81,10 @@ You would design a **Send Message** when:
 
    | Type | Label | Value (click on the `<>` button) |
    |------|--------|----------------------------------|
-   | Text | Resource | `Joule.Action.Result → value → resource` |
-   | Text | Status | `Joule.Action.Result → value → status` |
-   | Text | Activity Area | `Joule.Action.Result → value → activity_area` |
-   | Text | Resource Type | `Joule.Action.Result → value → resource_type` |
+   | Text | `Resource` | `Joule.Action.Result → value → resource` |
+   | Text | `Status` | `Joule.Action.Result → value → status` |
+   | Text | `Activity Area` | `Joule.Action.Result → value → activity_area` |
+   | Text | `Resource Type` | `Joule.Action.Result → value → resource_type` |
 
 12. Click **Save** to confirm.  
     Once the details are added, the **Preview** should appear in the right panel.
