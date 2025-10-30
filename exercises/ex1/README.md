@@ -58,7 +58,7 @@ Here we see the categories 'Connectivity' and the 'Test Input Values'
 
 
 
-####  Step 3 : Set Required Values for Testing
+###  Step 3 : Set Required Values for Testing
 
 On the **righ-top panel** (N2 on the screenshot), select the **destination** associated with the action project:
  | Destination  |
@@ -69,7 +69,7 @@ On the **righ-top panel** (N2 on the screenshot), select the **destination** ass
 
 
 
-####  Step 4 : Provide Values for Input Parameters
+###  Step 4 : Provide Values for Input Parameters
 
 Provide the following values for **input parameters** (N1 on the screenshot):
  
@@ -82,7 +82,6 @@ Provide the following values for **input parameters** (N1 on the screenshot):
 | **planning_horizon_from** | `2025-10-15T00:00:00Z` | Marks the lower boundary of the planning horizon, defining from when to begin evaluating workload and resource data. |
 
 <img width="1698" height="854" alt="image" src="https://github.com/user-attachments/assets/f8d35279-075d-4017-9e24-455ec3b1a3c3" />
-
 
 
 ###  Step 5 :  Get Succesful API Response 
