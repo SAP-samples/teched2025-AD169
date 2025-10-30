@@ -22,14 +22,17 @@ Releasing and deploying your project to a **Shared Environment** allows:
 
 ### 7.1 – Create a Shared Environment
 
-1. Navigate to Control Tower
+1. Open the **SAP Build Lobby** again, go to the **Control Tower** and open the **Environments** section.  
 
-Open the **SAP Build Lobby**, go to the **Control Tower** and open the **Environments** section.  
-
----
+<img width="1820" height="729" alt="image" src="https://github.com/user-attachments/assets/86ecf133-526b-4954-9662-0323fa3db3db" />
 
 2. Create a New Environment
-Click on the **Create** button at the top right corner and provide the following inputs, replacing `<UserID>` with your assigned ID:
+Click on the **Create** button at the top right corner.
+
+<img width="1893" height="407" alt="image" src="https://github.com/user-attachments/assets/5d2bff21-a5ae-4693-8757-552d53f98d52" />
+
+
+Provide the following inputs, replacing `<UserID>` with your assigned ID:
 
 | **Field** | **Value** |
 |------------|-----------|
@@ -37,6 +40,8 @@ Click on the **Create** button at the top right corner and provide the following
 | **Identifier** | Auto Populated |
 | **Color** | Any color of your choice from the dropdown |
 | **Description** | Environment for Joule Agent - `<UserID>` |
+
+<img width="694" height="530" alt="image" src="https://github.com/user-attachments/assets/c2be9d4b-cbf7-4a83-b3bf-de4fbf7fcc4e" />
 
 ---
 ### 7.2 Release and Deploy the Project
