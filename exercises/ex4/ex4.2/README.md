@@ -92,17 +92,18 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0af0a409-99a9-4443-893e-61cd2615e6e6" />
 
-   Add the values in the brackets as `("true", "true")`, and click **Apply**.  
+
+👉 2.9 Add the values in the brackets as `("true", "true")`, and click **Apply**.  
 
    <img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/bfd812f5-6a73-4bea-b1ae-bd3e1759a5d2" />
 
 
-👉 2.9 Map the variable `Warehouse` with the skill input `Warehouse`.  
+👉 2.10 Map the variable `Warehouse` with the skill input `Warehouse`.  
 
    <img width="939" height="418" alt="image" src="https://github.com/user-attachments/assets/55821163-09bd-434b-b91f-c5f35842bdc9" />
 
 
-👉 2.10 Once all mappings are completed, click **Save** to store the configuration.
+👉 2.11 Once all mappings are completed, click **Save** to store the configuration.
 
 ---
 
