@@ -33,7 +33,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
    <img width="1696" height="836" alt="image" src="https://github.com/user-attachments/assets/2b716747-b432-4dd0-9af2-a4d8015deafe" />
 
-
+   
 👉 1.5 Add the **Destination Variable** — it defines where the action’s response data will be stored
    - **Destination variable name:** `WHSOPMNG_DEST`
 
@@ -58,6 +58,7 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 👉 2.1 **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs
 
    <img width="1696" height="837" alt="image" src="https://github.com/user-attachments/assets/792272cc-52be-42fa-987a-9fd581d0a98c" />
+
   
 👉 2.2 Select the field `planning_horizon_from`
    <img width="1703" height="834" alt="image" src="https://github.com/user-attachments/assets/67274611-4cb8-4240-b64a-2cea7525519a" />
@@ -87,6 +88,7 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 👉 2.7 In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**
 
 👉 2.8 Then click **Insert** 
+
 
    <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0af0a409-99a9-4443-893e-61cd2615e6e6" />
 
