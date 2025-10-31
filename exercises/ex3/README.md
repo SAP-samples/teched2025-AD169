@@ -32,6 +32,7 @@ You’ll begin by **copying the existing project** so that you can safely add a 
 Follow these steps:
 
 👉 1. In **SAP Build Lobby**, in the project list, locate the WarehouseOperationsManagement project
+
 👉 2. Click on the arrow icon (›) on the right side of the row to open the project details page
    <img width="1562" height="526" alt="image" src="https://github.com/user-attachments/assets/036d640f-4cc1-408e-83c1-c13caab14fa7" />
 
