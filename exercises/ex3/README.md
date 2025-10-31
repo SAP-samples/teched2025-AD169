@@ -31,12 +31,12 @@ You’ll begin by **copying the existing project** so that you can safely add a 
 
 Follow these steps:
 
-👉 1. In **SAP Build Lobby**, in the project list, locate the WarehouseOperationsManagement project.
-👉 2. Click on the arrow icon (›) on the right side of the row to open the project details page.
+👉 1. In **SAP Build Lobby**, in the project list, locate the WarehouseOperationsManagement project
+👉 2. Click on the arrow icon (›) on the right side of the row to open the project details page
    <img width="1562" height="526" alt="image" src="https://github.com/user-attachments/assets/036d640f-4cc1-408e-83c1-c13caab14fa7" />
 
-👉 3. On the right-side panel, open the **Versions** tab.  
-👉 4. Click the **three dots (⋮)** next to *Editable* and then click the **Save As New** button to create your personal copy.
+👉 3. On the right-side panel, open the **Versions** tab
+👉 4. Click the **three dots (⋮)** next to *Editable* and then click the **Save As New** button to create your personal copy
    
    <img width="1696" height="835" alt="image" src="https://github.com/user-attachments/assets/e0913212-f3e6-496e-aac9-e2f211b20ce5" />
 
@@ -53,7 +53,7 @@ A unique name is required since there are many workshop attendees, and you need 
 
 ### Step 3: Review the Project
 
-👉 Once the project is saved, open it by clicking on its name in the SAP Build Lobby.  
+👉 Once the project is saved, open it by clicking on its name in the SAP Build Lobby 
    You should now see two **pre-created Joule Skills** that are already part of this project:
 
 - `AssignSingleResourceToActivityArea`  
