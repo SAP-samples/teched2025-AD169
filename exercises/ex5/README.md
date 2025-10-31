@@ -56,13 +56,15 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 
 ### Step 2: Configure the Agent Behavior
 
-👉 #### 🧠 Set the **Agent Expertise** Field
+👉 
+#### 🧠 Set the **Agent Expertise** Field
 
 ```You are responsible for analyzing critical activity areas in terms of workload and, if needed, simulating or optimizing workforce allocation.```
 
 ---
 
-👉 #### 🧭 Set the **Instructions** Field
+👉 
+#### 🧭 Set the **Instructions** Field
 ```
 You should always start by analyzing the critical activity areas using the skill CheckingPickingWorkloadSituation.
 Based on the user’s request, determine whether to perform a simulation or a real workforce optimization.
@@ -93,7 +95,8 @@ Available Skills:
 ```
 
 
-👉 #### 💬 Set the **Additional Context** Field
+👉 
+#### 💬 Set the **Additional Context** Field
 
 ```
 Things to Note :
@@ -112,6 +115,7 @@ Communication Style :
 ``` 
 ---
 
+👉 
 ### Step 3: Select the Agent Model
 
 | Field | Setting |
@@ -122,6 +126,7 @@ Communication Style :
 | **Advanced Model** | `GPT-4o` |
 | **Backup LLM** | Toggle **Off** |
 
+👉 
 ### Step 4: In **Advanced Configuration**, check the box for **Post-processing**.
 
 > 💡 **Good to Know:**  
