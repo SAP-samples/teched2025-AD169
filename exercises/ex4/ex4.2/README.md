@@ -45,6 +45,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 
 👉 1.6 Once you’ve linked the action and destination variable, **click Save** to complete the setup
+
    <img width="1691" height="839" alt="image" src="https://github.com/user-attachments/assets/d244ad96-8a3a-4827-b562-830c4523a400" />
 
 
@@ -55,6 +56,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.1/README.md)) to the corresponding **Action Inputs** from the SAP Build Action.
 
 👉 2.1 **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs
+
    <img width="1696" height="837" alt="image" src="https://github.com/user-attachments/assets/792272cc-52be-42fa-987a-9fd581d0a98c" />
   
    Select the field `planning_horizon_from`
@@ -66,7 +68,7 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
    <img width="1698" height="835" alt="image" src="https://github.com/user-attachments/assets/b3d7502b-3308-48d2-b6fa-bf9903993c79" />
 
 
-👉 2.3 In the **Formula Editor**, type `PlanningFrom`.  
+👉 2.3 In the **Formula Editor**, type `PlanningFrom`
    Then click **Apply**.  
 
    <img width="1691" height="838" alt="image" src="https://github.com/user-attachments/assets/d24431fe-34d1-4274-a681-744d01cf7b3a" />
@@ -80,9 +82,9 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
    | `planning_start` | `PlanningStart` |
 
 
-👉 2.5 Next, click on the field `is_simulation` and select **Apply a formula**.  
-   In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**.  
-   Then click **Insert**.  
+👉 2.5 Next, click on the field `is_simulation` and select **Apply a formula**  
+👉 In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual** 
+👉 Then click **Insert** 
 
    <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0af0a409-99a9-4443-893e-61cd2615e6e6" />
 
