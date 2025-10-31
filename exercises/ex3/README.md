@@ -37,6 +37,7 @@ Follow these steps:
    <img width="1562" height="526" alt="image" src="https://github.com/user-attachments/assets/036d640f-4cc1-408e-83c1-c13caab14fa7" />
 
 👉 3. On the right-side panel, open the **Versions** tab
+
 👉 4. Click the **three dots (⋮)** next to *Editable* and then click the **Save As New** button to create your personal copy
    
    <img width="1696" height="835" alt="image" src="https://github.com/user-attachments/assets/e0913212-f3e6-496e-aac9-e2f211b20ce5" />
