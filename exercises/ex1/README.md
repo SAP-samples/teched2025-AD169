@@ -31,13 +31,13 @@ Testing validates that:
 
 ###  Step 1: Open Action Project
 
-1. In the left panel of the lobby area, expand **Connectors** and click on **Actions**
+👉 1. In the left panel of the lobby area, expand **Connectors** and click on **Actions**
 
 
 <img width="1700" height="833" alt="image" src="https://github.com/user-attachments/assets/cb67767f-20a2-4c76-9b0b-d99b1c3eff10" />
 
 
-2. Search for the action project, **WarehouseWorkloadDetermination**. Click on it to open
+👉 2. Search for the action project, **WarehouseWorkloadDetermination**. Click on it to open
 
 <img width="1689" height="799" alt="image" src="https://github.com/user-attachments/assets/4a1c6092-771f-4fac-8857-17674d28b846" />
 
@@ -46,7 +46,7 @@ Testing validates that:
 
 ###  Step 2:  Navigate to Action's Test section
 
-1. Click the **Test** Tab
+👉 1. Click the **Test** Tab
 
 <img width="1700" height="838" alt="image" src="https://github.com/user-attachments/assets/42f0917f-8dba-43d8-9281-5a3f41e66f97" />
 
@@ -60,7 +60,7 @@ Here we see the categories **Connectivity** and the **Test Input Values**
 
 ###  Step 3 : Set required Destination to test the connection to the Warehouse Management application
 
-Select the **destination** in the drop down menu associated with the action project:
+👉 Select the **destination** in the drop down menu associated with the action project:
  | Destination  |
 ----------|
 | `zewm_autonomous-warehouse-agent-srv-api` |
@@ -71,7 +71,7 @@ Select the **destination** in the drop down menu associated with the action proj
 
 ###  Step 4 : Provide Values for Input Parameters
 
-Provide the following values for **input parameters** (N1 on the screenshot):
+👉 Provide the following values for **input parameters** (N1 on the screenshot):
  
 | **Parameter** | **Value** | **Description** |
 |----------------|------------|-----------------|
@@ -86,7 +86,7 @@ Provide the following values for **input parameters** (N1 on the screenshot):
 
 ###  Step 5 :  Get Succesful API Response 
 
-To the **right** of your screen, select the **Test Button**
+👉 To the **right** of your screen, select the **Test Button**
 
 <img width="1695" height="895" alt="image" src="https://github.com/user-attachments/assets/12b11c3b-db14-445e-9623-30e96bfc0294" />
 
