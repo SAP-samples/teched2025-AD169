@@ -15,9 +15,12 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
 
 ### Step 1: Define the Output Parameter
 
-👉 1.1 In the **Skill Builder**, click on the **End** button.
-👉 1.2 Click on **Define Skill outputs**.
-👉 1.3 Then click on **Parameters** tab (right panel), and in the **Outputs Section** click on **Configure**.  
+👉 1.1 In the **Skill Builder**, click on the **End** button
+
+👉 1.2 Click on **Define Skill outputs**
+
+👉 1.3 Then click on **Parameters** tab (right panel), and in the **Outputs Section** click on **Configure**
+
 👉 1.4 Click **Add Output** and **PASTE** these values in each field :
 
    | Field | Value |
@@ -26,7 +29,7 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
    | **Description** | `Workload Optimization Results` |
    | **Type** | `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema`|
 
-👉 1.5 Click **Apply** to confirm.  
+👉 1.5 Click **Apply** to confirm
 
    <img width="940" height="465" alt="image" src="https://github.com/user-attachments/assets/0cebad6a-d14c-457a-837c-d974d6e0752a" />
 
@@ -34,15 +37,16 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
 
 ### Step 2: Map the Output Variable
 
-👉 1.1 Click on the **End** button again.  
-👉 1.2 Click on the output field to **Select Item and map the result** from your previous **Action Call** step to the **Output Variable** you just created in the mapping panel.  
+👉 1.1 Click on the **End** button again
+
+👉 1.2 Click on the output field to **Select Item and map the result** from your previous **Action Call** step to the **Output Variable** you just created in the mapping panel 
 
    <img width="939" height="410" alt="image" src="https://github.com/user-attachments/assets/9a92b8ea-4fd5-41a2-aab0-15deabb4d808" />
 
 ---
 ### Step 3: Map the Output Variable
 
-Click on Save. 
+👉 Click on Save
 
 ---
 
