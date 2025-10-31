@@ -17,17 +17,18 @@ This step confirms that your **Agentic Warehouse Operations** scenario functions
 
 ---
 
-### 1. Launch the Test Session
+### Step 1: Launch the Test Session
 
-Click on the **Test** button in the upper-right corner in Joule Studio.  
+👉 Click on the **Test** button in the upper-right corner in Joule Studio
+
   <img width="1905" height="675" alt="image" src="https://github.com/user-attachments/assets/cda19b8b-4715-4444-9c07-e6adc99e2e88" />
 
 
 ---
 
-### 2. Configure Test Parameters
+### Step 2: Configure Test Parameters
 
-In the **Test Setup** window, enter the following details:
+👉 2.1 In the **Test Setup** window, enter the following details:
 
 | Parameter | Value |
 |------------|--------|
@@ -35,11 +36,11 @@ In the **Test Setup** window, enter the following details:
 | **AICore** | `document-grounding` |
 | **WHSOPMNG_DEST** | `zewm-autonomous-warehouse-agent-srv-api` |
 
-Click **Continue** to start your testing session.
+👉 2.2 Click **Continue** to start your testing session
 
 ---
 
-### 3. Interact with the Joule Assistant
+### Step 3: Interact with the Joule Assistant
 
 #### 🧠 Prompt 1 – Run a Simulation
 **Prompt:**
