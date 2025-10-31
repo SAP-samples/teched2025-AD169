@@ -59,22 +59,22 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    <img width="1696" height="837" alt="image" src="https://github.com/user-attachments/assets/792272cc-52be-42fa-987a-9fd581d0a98c" />
   
-   Select the field `planning_horizon_from`
+👉 2.2 Select the field `planning_horizon_from`
    <img width="1703" height="834" alt="image" src="https://github.com/user-attachments/assets/67274611-4cb8-4240-b64a-2cea7525519a" />
 
  
-👉 2.2 Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
+👉 2.3 Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
 
    <img width="1698" height="835" alt="image" src="https://github.com/user-attachments/assets/b3d7502b-3308-48d2-b6fa-bf9903993c79" />
 
 
-👉 2.3 In the **Formula Editor**, type `PlanningFrom`
+👉 2.4 In the **Formula Editor**, type `PlanningFrom`
    Then click **Apply**.  
 
    <img width="1691" height="838" alt="image" src="https://github.com/user-attachments/assets/d24431fe-34d1-4274-a681-744d01cf7b3a" />
 
 
-👉 2.4 Similarly, map the following fields:
+👉 2.5 Similarly, map the following fields:
 
    | **Action Inputs** | **Skill Content / Skill Input Variables** |
    |--------------------|-------------------------------------------|
@@ -82,11 +82,11 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
    | `planning_start` | `PlanningStart` |
 
 
-👉 2.5 Next, click on the field `is_simulation` and select **Apply a formula**
+👉 2.6 Next, click on the field `is_simulation` and select **Apply a formula**
 
-👉 2.6 In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**
+👉 2.7 In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**
 
-👉 2.7 Then click **Insert** 
+👉 2.8 Then click **Insert** 
 
    <img width="940" height="466" alt="image" src="https://github.com/user-attachments/assets/0af0a409-99a9-4443-893e-61cd2615e6e6" />
 
@@ -95,12 +95,12 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
    <img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/bfd812f5-6a73-4bea-b1ae-bd3e1759a5d2" />
 
 
-👉 2.8 Map the variable `Warehouse` with the skill input `Warehouse`.  
+👉 2.9 Map the variable `Warehouse` with the skill input `Warehouse`.  
 
    <img width="939" height="418" alt="image" src="https://github.com/user-attachments/assets/55821163-09bd-434b-b91f-c5f35842bdc9" />
 
 
-👉 2.9 Once all mappings are completed, click **Save** to store the configuration.
+👉 2.10 Once all mappings are completed, click **Save** to store the configuration.
 
 ---
 
