@@ -28,6 +28,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
    > This step connects your **Joule Skill** with the **SAP Build Action** that encapsulates the business logic you validated earlier.  
    > By linking them, you enable Joule to execute the same backend process through natural language — no manual API calls needed.
 
+
 👉 1.4 Once the action call is added, **click on it** to open the right-hand configuration panel for **Input** and **Output Parameters** 
 
    <img width="1696" height="836" alt="image" src="https://github.com/user-attachments/assets/2b716747-b432-4dd0-9af2-a4d8015deafe" />
@@ -42,6 +43,7 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
    > 💡 **Good to know:**  
    > In this exercise, the **Destination Variable** `WHSOPMNG_DEST` connects the Joule Skill to the backend API destination on your SAP BTP account and captures the results of the `optimizeWorkload` Action.
 
+
 👉 1.6 Once you’ve linked the action and destination variable, **click Save** to complete the setup
    <img width="1691" height="839" alt="image" src="https://github.com/user-attachments/assets/d244ad96-8a3a-4827-b562-830c4523a400" />
 
@@ -52,33 +54,33 @@ This ensures that when the Joule Agent triggers the skill, it correctly sends an
 
 Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://github.com/SAP-samples/teched2025-AD169/blob/main/exercises/ex4/ex4.1/README.md)) to the corresponding **Action Inputs** from the SAP Build Action.
 
-1. **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs
+👉 2.1 **Click** on the **Inputs** tab to start mapping the skill inputs to the action call inputs
    <img width="1696" height="837" alt="image" src="https://github.com/user-attachments/assets/792272cc-52be-42fa-987a-9fd581d0a98c" />
   
    Select the field `planning_horizon_from`
    <img width="1703" height="834" alt="image" src="https://github.com/user-attachments/assets/67274611-4cb8-4240-b64a-2cea7525519a" />
- 
 
-   Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
+ 
+👉 2.2 Since the **Skill Inputs** are of type *String* and some **Action Inputs** are of type *DateTime*, click **Apply a formula** to perform the mapping.  
 
    <img width="1698" height="835" alt="image" src="https://github.com/user-attachments/assets/b3d7502b-3308-48d2-b6fa-bf9903993c79" />
 
 
-
-3. In the **Formula Editor**, type `PlanningFrom`.  
+👉 2.3 In the **Formula Editor**, type `PlanningFrom`.  
    Then click **Apply**.  
 
-<img width="1691" height="838" alt="image" src="https://github.com/user-attachments/assets/d24431fe-34d1-4274-a681-744d01cf7b3a" />
+   <img width="1691" height="838" alt="image" src="https://github.com/user-attachments/assets/d24431fe-34d1-4274-a681-744d01cf7b3a" />
 
 
-4. Similarly, map the following fields:
+👉 2.4 Similarly, map the following fields:
 
    | **Action Inputs** | **Skill Content / Skill Input Variables** |
    |--------------------|-------------------------------------------|
    | `planning_horizon_to` | `PlanningTo` |
    | `planning_start` | `PlanningStart` |
 
-5. Next, click on the field `is_simulation` and select **Apply a formula**.  
+
+👉 2.5 Next, click on the field `is_simulation` and select **Apply a formula**.  
    In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**.  
    Then click **Insert**.  
 
@@ -88,11 +90,13 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
    <img width="940" height="509" alt="image" src="https://github.com/user-attachments/assets/bfd812f5-6a73-4bea-b1ae-bd3e1759a5d2" />
 
-6. Map the variable `Warehouse` with the skill input `Warehouse`.  
+
+👉 2.6 Map the variable `Warehouse` with the skill input `Warehouse`.  
 
    <img width="939" height="418" alt="image" src="https://github.com/user-attachments/assets/55821163-09bd-434b-b91f-c5f35842bdc9" />
 
-7. Once all mappings are completed, click **Save** to store the configuration.
+
+👉 2.7 Once all mappings are completed, click **Save** to store the configuration.
 
 ---
 
