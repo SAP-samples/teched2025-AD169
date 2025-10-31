@@ -20,15 +20,16 @@ In other words, the Private Environment acts as a **sandbox** where you can free
 ## 🧩 Create your Private Environment
 
 ### Step 1: Navigate to  ‘Control Tower’ and  ‘Environments’ 
-👉 Go back to the lobby and Click on the ‘Control Tower’ in the lobby
+👉 1.1 Go back to the lobby and Click on the ‘Control Tower’ in the lobby
 
-👉 In the Control Tower, click on the tile ‘Environments’
+👉 1.2 In the Control Tower, click on the tile ‘Environments’
 
 <img width="1583" height="895" alt="image" src="https://github.com/user-attachments/assets/7604f646-d1bf-4bdd-9fef-00ab268b4bef" />
 
 
 
 ### Step 2: Activate Private Environment
+
 👉 Click on Activate Private Environment
 
 <img width="1694" height="833" alt="image" src="https://github.com/user-attachments/assets/2b26922d-f1a8-47f6-bf19-a051860bf64c" />
