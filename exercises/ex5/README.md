@@ -36,13 +36,13 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 
 ---
 
-### 1. Create a New Joule Agent
+### Step 1: Create a New Joule Agent
 
-1. In the **overview page** of your project, click on the dropdown **Create → Joule Agent**.  
+👉 1.1 In the **overview page** of your project, click on the dropdown **Create → Joule Agent**.  
 
    <img width="940" height="320" alt="image" src="https://github.com/user-attachments/assets/4a2e4dd5-7751-45e4-9cb1-b33d82299321" />
 
-2. Enter the following details:  
+👉 1.2 Enter the following details:  
    - **Name:** `Warehouse Workforce Optimization Agent`  
    - **Description:** `Agent to check critical workloads in the warehouse and execute optimal reassignment of workforce to activity areas.`  
 
@@ -54,15 +54,15 @@ In short, this is where your **Agentic Warehouse Operations** scenario becomes f
 
 ---
 
-### 2. Configure the Agent Behavior
+### Step 2: Configure the Agent Behavior
 
-#### 🧠 Set the **Agent Expertise** Field
+👉 #### 🧠 Set the **Agent Expertise** Field
 
 ```You are responsible for analyzing critical activity areas in terms of workload and, if needed, simulating or optimizing workforce allocation.```
 
 ---
 
-#### 🧭 Set the **Instructions** Field
+👉 #### 🧭 Set the **Instructions** Field
 ```
 You should always start by analyzing the critical activity areas using the skill CheckingPickingWorkloadSituation.
 Based on the user’s request, determine whether to perform a simulation or a real workforce optimization.
@@ -93,7 +93,7 @@ Available Skills:
 ```
 
 
-#### 💬 Set the **Additional Context** Field
+👉 #### 💬 Set the **Additional Context** Field
 
 ```
 Things to Note :
@@ -112,7 +112,7 @@ Communication Style :
 ``` 
 ---
 
-### 3. Select the Agent Model
+### Step 3: Select the Agent Model
 
 | Field | Setting |
 |--------|----------|
@@ -122,7 +122,7 @@ Communication Style :
 | **Advanced Model** | `GPT-4o` |
 | **Backup LLM** | Toggle **Off** |
 
-### 4. In **Advanced Configuration**, check the box for **Post-processing**.
+### Step 4: In **Advanced Configuration**, check the box for **Post-processing**.
 
 > 💡 **Good to Know:**  
 > The Advanced Configuration allows you to add **Pre-processing Steps** and **Post-processing Steps**. This forces the agent to decompose the steps to improve planning, reasoning and optimizes the response the agent will output.
@@ -132,11 +132,13 @@ Communication Style :
 
 ---
 
-### 5. Add Joule Skills as Tools
+### Step 5: Add Joule Skills as Tools
 
-1. In the **Tools** section, click **Add Tool → Joule Skill**.  
-2. A pop-up will display all available Joule Skills in your project.  
-3. Mutli-Select (ctrl or cmd + click) the following skills to add them as tools :
+👉 5.1 In the **Tools** section, click **Add Tool → Joule Skill**
+
+👉 5.2 A pop-up will display all available Joule Skills in your project
+
+👉 5.3 Mutli-Select (ctrl or cmd + click) the following skills to add them as tools :
    - `CheckingPickingWorkloadSituation`  
    - `SimulateWorkforceOptimization`  
    - `ExecuteWorkforceOptimization`
@@ -146,10 +148,11 @@ Communication Style :
 
 ---
 
-### 5. Add Document Tool
+### Step 6: Add Document Tool
 
-1. In the **Tools** section, click **Add Tool → Documents**.  
-2. Enter the following details:  
+👉 6.1 In the **Tools** section, click **Add Tool → Documents**
+
+👉 6.2 Enter the following details:  
 
    | Field | Value |
    |--------|--------|
@@ -159,32 +162,33 @@ Communication Style :
    | Write **Resource Group ID** | `MFSResourceGroupDoc` |
    | Write **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
 
-3. Click **Add**.  
+👉 6.3 Click **Add**.  
 
    <img width="828" height="549" alt="image" src="https://github.com/user-attachments/assets/492ff6af-f618-4d4c-ab10-1a00e8e5b159" />
 
 
 ---
 
-### 6. Add Calculator Tool
+### Step 7: Add Calculator Tool
 
-1. In the **Tools** section, click **Add Tool → Calculator**.  
-2. Enter the following details:  
+👉 7.1 In the **Tools** section, click **Add Tool → Calculator**
+
+👉 7.2 Enter the following details:  
 
    | Field | Value |
    |--------|--------|
    | **Tool Name** | `Calculator` |
    | **Description** | `Basic arithmetic operations for numeric data handling.` |
 
-3. Click **Add**.  
+👉 7.3 Click **Add**
 
    <img width="745" height="382" alt="image" src="https://github.com/user-attachments/assets/17bb8e9b-f63d-4f82-9463-eb75dfe11821" />
 
 ---
 
-### 7. Save the Agent
+### Step 8: Save the Agent
 
-Once all configurations are complete, click **Save** to finalize your Joule Agent.
+👉 Once all configurations are complete, click **Save** to finalize your Joule Agent.
 
 ---
 
