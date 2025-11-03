@@ -186,7 +186,7 @@ Communication Style :
    | **Tool Name** | `Calculator` |
    | **Description** | `Basic arithmetic operations for numeric data handling.` |
 
-👉 7.3 Click **Add**
+👉 7.3 Click **Apply**
 
    <img width="745" height="382" alt="image" src="https://github.com/user-attachments/assets/17bb8e9b-f63d-4f82-9463-eb75dfe11821" />
 
