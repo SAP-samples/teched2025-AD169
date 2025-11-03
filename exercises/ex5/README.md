@@ -164,7 +164,7 @@ Communication Style :
    | Write **Tool Name** | `Warehouse Operations Management Document` |
    | Write **Description** | `Guidelines for Warehouse Operations Management App` |
    | Select **Destination Variable** | `AICore` |
-   | Write **Resource Group ID** | `MFSResourceGroupDoc` |
+   | Write **Resource Group ID** | `MFSResourceGroup` |
    | Write **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
 
 👉 6.3 Click **Add**.  
