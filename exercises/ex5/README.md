@@ -167,9 +167,10 @@ Communication Style :
    | Write **Resource Group ID** | `MFSResourceGroup` |
    | Write **Collection ID** | `620785a0-b5fa-4901-94be-2e194f926953` |
 
-👉 6.3 Click **Add**.  
+👉 6.3 Click **Apply**.  
 
-   <img width="828" height="549" alt="image" src="https://github.com/user-attachments/assets/492ff6af-f618-4d4c-ab10-1a00e8e5b159" />
+  <img width="832" height="557" alt="image" src="https://github.com/user-attachments/assets/0b80e846-1c9a-4f16-a952-be9d102b7a93" />
+
 
 
 ---
