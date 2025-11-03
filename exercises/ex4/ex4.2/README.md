@@ -61,6 +61,8 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
 
 👉 2.2 Click on the field `is_simulation` and select **Apply a formula**
 
+<img width="1106" height="510" alt="image" src="https://github.com/user-attachments/assets/ae645395-21c9-4449-ac7f-824f75e7cc29" />
+
 👉 2.3 In the **Functions** section, expand **Boolean functions** and choose **ValuesAreEqual**
 
 👉 2.4 Then click **Insert** 
@@ -86,7 +88,9 @@ Now you’ll map the **Joule Skill Inputs** (created in [Exercise 4.1](https://g
    | `planning_start` | `PlanningStart` |
    | `Warehouse` | `Warehouse` |
 
-   <img width="939" height="418" alt="image" src="https://github.com/user-attachments/assets/55821163-09bd-434b-b91f-c5f35842bdc9" />
+
+  <img width="1236" height="554" alt="image" src="https://github.com/user-attachments/assets/05985c7b-3611-4380-8793-23a8fd483db9" />
+
 
 
 👉 2.8 Once all mappings are completed, click **Save** to store the configuration.
