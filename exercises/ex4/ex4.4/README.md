@@ -28,6 +28,7 @@ Proper configuration ensures a smooth and accurate flow of data between your **S
    | **Name** | `WorkloadOptimizationResults` |
    | **Description** | `Workload Optimization Results` |
    | **Type** | `post_postWarehouseWorkloa__viceOptimizeWorkload_200_output_schema`|
+   | **Required**| `Ticked`|
 
 👉 1.5 Click **Apply** to confirm
 
