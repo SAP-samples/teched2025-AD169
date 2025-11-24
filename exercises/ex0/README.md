@@ -1,6 +1,8 @@
 ## Getting Started - Login to the Tenant
 
-<br> 1: All your users should be created. Please contact the trainers for Login id and Password
+<br> 1: All your users should be created. Use the below format of IDs to login:
+<br> user id: B-AD169-001@education.cloud.sap 
+<br> Password: Acce$$teched2025!
 <br> 2: Click on the tenant URL to access the SAP Build Lobby : 
 <br>**Note on the previous link:** We have removed the labs preview link. The tenant was available as part of a TechEd 2025 hands-on session and is no longer active.
 <br> <br> 3: Once the Login is successful, you should be able to see the SAP Build Lobby
