@@ -34,7 +34,8 @@ Testing validates that:
 👉 1. In the left panel of the lobby area, expand **Connectors** and click on **Actions**
 
 
-<img width="1700" height="833" alt="image" src="https://github.com/user-attachments/assets/cb67767f-20a2-4c76-9b0b-d99b1c3eff10" />
+<img width="940" height="159" alt="image" src="https://github.com/user-attachments/assets/2e329ff4-0a58-482f-bdc0-38f02a48df15" />
+
 
 
 👉 2. Search for the action project, **WarehouseWorkloadDetermination**. Click on it to open
