@@ -66,9 +66,9 @@ In essence, this Joule Skill transforms slow, manual “what-if” analysis into
    | Name           | Description                                      | Type      | Required |
    |----------------|--------------------------------------------------|-----------|-----------|
    | `IsSimulation` | Flag to check the simulation | String | ✅ Checked |
-   | `PlanningStart` | Planning start date and time converted to UTC | DateTime | ✅ Checked |
-   | `PlanningFrom` | Planning from date and time converted to UTC | DateTime | ✅ Checked |
-   | `PlanningTo` | Planning to date and time converted to UTC | DateTime | ✅ Checked |
+   | `PlanningStart` | Planning start date and time converted to UTC | String | ✅ Checked |
+   | `PlanningFrom` | Planning from date and time converted to UTC | String | ✅ Checked |
+   | `PlanningTo` | Planning to date and time converted to UTC | String | ✅ Checked |
    | `Warehouse` | Warehouse ID | String | ✅ Checked |
 
 > [!NOTE]  
